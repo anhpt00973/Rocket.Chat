@@ -1,7 +1,7 @@
 {
 	"name": "@rocket.chat/eslint-config",
 	"version": "0.7.0",
-	"description": "Rocket.Chat's JS/TS ESLint config",
+	"description": "SMC-Chat's JS/TS ESLint config",
 	"dependencies": {
 		"@babel/core": "^7.20.7",
 		"@babel/eslint-parser": "~7.23.3",

@@ -1,8 +1,8 @@
 {
-  "name": "Rocket.Chat",
+  "name": "SMC-Chat",
   "description": "Have your own open-source Slack-like online chat platform.",
-  "repository": "https://github.com/RocketChat/Rocket.Chat",
-  "logo": "https://raw.githubusercontent.com/RocketChat/Rocket.Chat.Artwork/master/Logos/2020/png/logo-horizontal-red.png",
+  "repository": "https://github.com/RocketChat/SMC-Chat",
+  "logo": "https://raw.githubusercontent.com/RocketChat/SMC-Chat.Artwork/master/Logos/2020/png/logo-horizontal-red.png",
   "keywords": ["meteor", "social", "community", "chat"],
   "website": "https://rocket.chat",
   "env": {

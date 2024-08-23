@@ -1,4 +1,4 @@
 export const surface = {
-  sidebar: '#2F343D',
+  sidebar: '#2f343d',
   main: '#262931',
 };

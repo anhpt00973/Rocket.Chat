@@ -2,7 +2,7 @@
 	"name": "@rocket.chat/queue-worker",
 	"private": true,
 	"version": "0.4.3",
-	"description": "Rocket.Chat service",
+	"description": "SMC-Chat service",
 	"scripts": {
 		"build": "tsc -p tsconfig.json",
 		"ms": "TRANSPORTER=${TRANSPORTER:-TCP} MONGO_URL=${MONGO_URL:-mongodb://localhost:3001/meteor} ts-node --files src/service.ts",
@@ -13,7 +13,7 @@
 	"keywords": [
 		"rocketchat"
 	],
-	"author": "Rocket.Chat",
+	"author": "SMC-Chat",
 	"dependencies": {
 		"@react-pdf/renderer": "^3.1.14",
 		"@rocket.chat/core-services": "workspace:^",

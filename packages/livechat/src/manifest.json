@@ -1,6 +1,6 @@
 {
-  "name": "Rocket.Chat.Livechat",
-  "short_name": "Rocket.Chat.Livechat",
+  "name": "SMC-Chat.Livechat",
+  "short_name": "SMC-Chat.Livechat",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",

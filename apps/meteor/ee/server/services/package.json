@@ -2,7 +2,7 @@
 	"name": "rocketchat-services",
 	"private": true,
 	"version": "1.3.0",
-	"description": "Rocket.Chat Authorization service",
+	"description": "SMC-Chat Authorization service",
 	"main": "index.js",
 	"scripts": {
 		"dev": "pm2 start ecosystem.config.js",
@@ -15,7 +15,7 @@
 	"keywords": [
 		"rocketchat"
 	],
-	"author": "Rocket.Chat",
+	"author": "SMC-Chat",
 	"license": "MIT",
 	"dependencies": {
 		"@rocket.chat/apps-engine": "1.44.0",

@@ -14,7 +14,7 @@ export const LoginPoweredBy = (): ReactElement | null => {
 			<Trans i18nKey='registration.page.poweredBy'>
 				{'Powered by '}
 				<Link href='https://rocket.chat/' target='_blank' rel='noopener noreferrer'>
-					Rocket.Chat
+					SMC-Chat
 				</Link>
 			</Trans>
 		</Box>

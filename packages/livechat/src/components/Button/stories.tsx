@@ -23,7 +23,7 @@ export default {
 		badge: undefined,
 		icon: null,
 		img: undefined,
-		children: 'Powered by Rocket.Chat',
+		children: 'Powered by SMC-Chat',
 		onClick: action('clicked'),
 	},
 	argTypes: {

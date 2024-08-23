@@ -11,7 +11,7 @@ Those widgets, at Rocket.Chat, are called **LiveChat**.
 
 ## Running a development environment
 
-With your **Rocket.chat** running locally at http://localhost:3000
+With your **SMC-Chat** running locally at http://localhost:3000
 <br />
 
 1. Install all node dependencies.

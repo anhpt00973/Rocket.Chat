@@ -59,10 +59,10 @@ export const createEmailSettings = () =>
 	}
 
 	h1 { font-weight: 100; font-size: 44px;}
-	h2 { font-weight: 600; font-size: 30px; color: #2F343D;}
+	h2 { font-weight: 600; font-size: 30px; color: #2f343d;}
 	h3 { font-weight: 100; font-size: 27px;}
-	h4 { font-weight: 500; font-size: 14px; color: #2F343D;}
-	h5 { font-weight: 500; font-size: 13px; line-height: 1.6; color: #2F343D}
+	h4 { font-weight: 500; font-size: 14px; color: #2f343d;}
+	h5 { font-weight: 500; font-size: 13px; line-height: 1.6; color: #2f343d}
 	h6 { font-weight: 500; font-size: 10px; color: #6c727A; line-height: 1.7;}
 
 	.container {
@@ -148,7 +148,7 @@ export const createEmailSettings = () =>
 		await this.section('Header_and_Footer', async function () {
 			await this.add(
 				'Email_Header',
-				'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><!-- If you delete this tag, the sky will fall on your head --><meta name="viewport" content="width=device-width" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Rocket.Chat Cloud</title></head><body bgcolor="#F7F8FA"><table class="body" bgcolor="#F7F8FA" width="100%"><tr><td><!-- HEADER --><table class="wrap" bgcolor="#F7F8FA"><tr><td class="header container"><div class="header-content"><table bgcolor="#F7F8FA" width="100%"><tr><td><img src="[Site_Url_Slash]assets/logo.png" alt="Rocket.chat" width="150px" /></td></tr></table></div></td></tr></table><!-- /HEADER --></td></tr><tr><td><!-- BODY --><table class="wrap"><tr><td class="container" bgcolor="#FFFFFF"><div class="content"><table><tr><td>',
+				'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><!-- If you delete this tag, the sky will fall on your head --><meta name="viewport" content="width=device-width" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Rocket.Chat Cloud</title></head><body bgcolor="#F7F8FA"><table class="body" bgcolor="#F7F8FA" width="100%"><tr><td><!-- HEADER --><table class="wrap" bgcolor="#F7F8FA"><tr><td class="header container"><div class="header-content"><table bgcolor="#F7F8FA" width="100%"><tr><td><img src="[Site_Url_Slash]assets/logo.png" alt="SMC-Chat" width="150px" /></td></tr></table></div></td></tr></table><!-- /HEADER --></td></tr><tr><td><!-- BODY --><table class="wrap"><tr><td class="container" bgcolor="#FFFFFF"><div class="content"><table><tr><td>',
 				{
 					type: 'code',
 					code: 'text/html',

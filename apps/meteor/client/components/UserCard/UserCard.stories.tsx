@@ -15,7 +15,7 @@ export default {
 		roles: (
 			<>
 				<UserCardRole>Admin</UserCardRole>
-				<UserCardRole>Rocket.Chat</UserCardRole>
+				<UserCardRole>SMC-Chat</UserCardRole>
 				<UserCardRole>Team</UserCardRole>
 			</>
 		),

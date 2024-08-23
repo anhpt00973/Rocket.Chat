@@ -430,7 +430,7 @@ const validateLoginAttemptAsync = async function (login) {
 
 	/**
 	 * Trigger the event only when the
-	 * user does login in Rocket.chat
+	 * user does login in SMC-Chat
 	 */
 	if (login.type !== 'resume') {
 		// App IPostUserLoggedIn event hook

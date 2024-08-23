@@ -1,9 +1,9 @@
 {
   "name": "@rocket.chat/message-parser",
-  "description": "Rocket.Chat parser for messages",
+  "description": "SMC-Chat parser for messages",
   "version": "0.31.29",
   "author": {
-    "name": "Rocket.Chat",
+    "name": "SMC-Chat",
     "url": "https://rocket.chat/"
   },
   "license": "MIT",

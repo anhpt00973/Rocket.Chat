@@ -18,9 +18,9 @@ export function useExampleData({
 			text: 'Example message',
 			attachments: [
 				{
-					title: 'Rocket.Chat',
+					title: 'SMC-Chat',
 					title_link: 'https://rocket.chat',
-					text: 'Rocket.Chat, the best open source chat',
+					text: 'SMC-Chat, the best open source chat',
 					image_url: imageUrl,
 					color: '#764FA5',
 				},
