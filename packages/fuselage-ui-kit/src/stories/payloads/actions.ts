@@ -179,7 +179,7 @@ export const actionsWithButtonAsLink: readonly UiKit.LayoutBlock[] = [
           text: 'Click Me',
           emoji: true,
         },
-        url: 'https://rocket.chat',
+        url: 'https://www.unitel.com.la/',
         value: 'click_me_123',
       },
     ],

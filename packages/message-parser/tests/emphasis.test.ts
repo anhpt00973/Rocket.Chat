@@ -162,7 +162,7 @@ test.each([
       paragraph([
         bold([
           plain('reference link inside '),
-          link('https://rocket.chat', [
+          link('https://www.unitel.com.la/', [
             plain('emphasis with more [references'),
           ]),
           plain('](https://rocket.chat)'),

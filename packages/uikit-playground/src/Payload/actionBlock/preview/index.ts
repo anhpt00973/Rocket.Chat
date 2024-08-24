@@ -85,7 +85,7 @@ export const previewWithUrl: readonly LayoutBlock[] = [
         },
       ],
     },
-    externalUrl: 'https://rocket.chat',
+    externalUrl: 'https://www.unitel.com.la/',
   },
 ];
 
@@ -116,6 +116,6 @@ export const previewWithImageAndUrl: readonly LayoutBlock[] = [
         },
       ],
     },
-    // externalUrl: 'https://rocket.chat',
+    // externalUrl: 'https://www.unitel.com.la/',
   },
 ];

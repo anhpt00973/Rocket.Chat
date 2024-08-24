@@ -1,9 +1,11 @@
 import { Box, IconButton } from '@rocket.chat/fuselage';
-import { VerticalWizardLayout, VerticalWizardLayoutFooter, VerticalWizardLayoutForm, VerticalWizardLayoutTitle } from '@rocket.chat/layout';
+import { VerticalWizardLayout, 
+	// VerticalWizardLayoutFooter, 
+	VerticalWizardLayoutForm, VerticalWizardLayoutTitle } from '@rocket.chat/layout';
 import { useSetting, useTranslation, useAssetWithDarkModePath } from '@rocket.chat/ui-contexts';
 import type { ReactElement } from 'react';
 
-import { LoginPoweredBy } from './components/LoginPoweredBy';
+// import { LoginPoweredBy } from './components/LoginPoweredBy';
 
 type CMSPageProps = {
 	page: 'Layout_Terms_of_Service' | 'Layout_Privacy_Policy' | 'Layout_Legal_Notice';
@@ -28,9 +30,9 @@ const CMSPage = ({ page }: CMSPageProps): ReactElement => {
 					<Box withRichContent dangerouslySetInnerHTML={{ __html: pageContent }} />
 				</Box>
 			</VerticalWizardLayoutForm>
-			<VerticalWizardLayoutFooter>
-				<LoginPoweredBy />
-			</VerticalWizardLayoutFooter>
+			{/* <VerticalWizardLayoutFooter> */}
+				{/* <LoginPoweredBy /> */}
+			{/* </VerticalWizardLayoutFooter> */}
 		</VerticalWizardLayout>
 	);
 };

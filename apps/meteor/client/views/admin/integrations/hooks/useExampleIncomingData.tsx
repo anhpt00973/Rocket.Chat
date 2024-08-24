@@ -19,7 +19,7 @@ export function useExampleData({
 			attachments: [
 				{
 					title: 'SMC-Chat',
-					title_link: 'https://rocket.chat',
+					title_link: 'https://www.unitel.com.la/',
 					text: 'SMC-Chat, the best open source chat',
 					image_url: imageUrl,
 					color: '#764FA5',

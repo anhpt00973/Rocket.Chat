@@ -5535,7 +5535,7 @@
   "registration.page.resetPassword.sent": "Om det här e-postmeddelandet är registrerat skickar vi instruktioner om hur du återställer ditt lösenord. Om du inte får ett mail inom kort, vänligen kom tillbaka och försök igen.",
   "registration.page.resetPassword.sendInstructions": "Skicka instruktioner",
   "registration.page.resetPassword.errors.invalidEmail": "Ogiltig e-postadress",
-  "registration.page.poweredBy": "Drivs av <1>RocketChat</1>",
+  "registration.page.poweredBy": "Drivs av <1>SMC-Chat</1>",
   "registration.page.guest.chooseHowToJoin": "Välj hur du vill ansluta",
   "registration.page.guest.loginWithRocketChat": "Logga in med SMC-Chat",
   "registration.page.guest.continueAsGuest": "Fortsätt som gäst",

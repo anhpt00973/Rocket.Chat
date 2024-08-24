@@ -1,8 +1,8 @@
 import { Box } from '@rocket.chat/fuselage';
-import { Link } from '@rocket.chat/layout';
+// import { Link } from '@rocket.chat/layout';
 import { useSetting } from '@rocket.chat/ui-contexts';
 import type { ReactElement } from 'react';
-import { Trans } from 'react-i18next';
+// import { Trans } from 'react-i18next';
 
 export const LoginPoweredBy = (): ReactElement | null => {
 	const hidePoweredBy = useSetting<boolean>('Layout_Login_Hide_Powered_By');
@@ -11,12 +11,12 @@ export const LoginPoweredBy = (): ReactElement | null => {
 	}
 	return (
 		<Box mbe={18}>
-			<Trans i18nKey='registration.page.poweredBy'>
-				{'Powered by '}
+			{/* <Trans i18nKey='registration.page.poweredBy'>
+				{'Powered by SMC-Chat'}
 				<Link href='https://www.unitel.com.la/' target='_blank' rel='noopener noreferrer'>
 					SMC-Chat
 				</Link>
-			</Trans>
+			</Trans> */}
 		</Box>
 	);
 };

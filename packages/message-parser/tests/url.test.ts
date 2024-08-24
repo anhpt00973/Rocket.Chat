@@ -51,7 +51,7 @@ test.each([
     'https://rocket.chat/test?search=test',
     [paragraph([autoLink('https://rocket.chat/test?search=test')])],
   ],
-  ['https://rocket.chat', [paragraph([autoLink('https://rocket.chat')])]],
+  ['https://www.unitel.com.la/', [paragraph([autoLink('https://www.unitel.com.la/')])]],
   ['https://localhost', [paragraph([autoLink('https://localhost')])]],
   ['https://localhost:3000', [paragraph([autoLink('https://localhost:3000')])]],
   [
@@ -193,7 +193,7 @@ test.each([
         plain('two urls '),
         autoLink('https://developer.rocket.chat'),
         plain(' , '),
-        autoLink('https://rocket.chat'),
+        autoLink('https://www.unitel.com.la/'),
       ]),
     ],
   ],
@@ -238,7 +238,7 @@ test.each([
     [
       paragraph([
         plain('app...https://rocket.chat '),
-        autoLink('https://rocket.chat'),
+        autoLink('https://www.unitel.com.la/'),
       ]),
     ],
   ],
@@ -247,7 +247,7 @@ test.each([
     [
       paragraph([
         plain('Hey check it out the best communication platform '),
-        autoLink('https://rocket.chat'),
+        autoLink('https://www.unitel.com.la/'),
         plain('! There is not discussion about it.'),
       ]),
     ],

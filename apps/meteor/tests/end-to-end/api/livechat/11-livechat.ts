@@ -201,7 +201,7 @@ describe('LIVECHAT - Utils', () => {
 			const { body } = await request
 				.post(api('livechat/page.visited'))
 				.set(credentials)
-				.send({ token: 'test', rid: 'test', pageInfo: { change: 'url', title: 'Rocket.Chat', location: { href: 'https://rocket.chat' } } });
+				.send({ token: 'test', rid: 'test', pageInfo: { change: 'url', title: 'Rocket.Chat', location: { href: 'https://www.unitel.com.la/' } } });
 			expect(body).to.have.property('success', true);
 			expect(body).to.have.property('page');
 			expect(body.page).to.have.property('navigation');
@@ -217,7 +217,7 @@ describe('LIVECHAT - Utils', () => {
 				.send({
 					token: visitor.token,
 					rid: room._id,
-					pageInfo: { change: 'url', title: 'Rocket.Chat', location: { href: 'https://rocket.chat' } },
+					pageInfo: { change: 'url', title: 'Rocket.Chat', location: { href: 'https://www.unitel.com.la/' } },
 				});
 
 			expect(body).to.have.property('success', true);

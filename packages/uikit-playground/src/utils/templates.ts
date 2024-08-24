@@ -230,7 +230,7 @@ export const templates: templateType[] = [
                   text: 'Click Me',
                   emoji: true,
                 },
-                url: 'https://rocket.chat',
+                url: 'https://www.unitel.com.la/',
               },
             ],
           },
@@ -400,7 +400,7 @@ export const templates: templateType[] = [
                 },
               ],
             },
-            externalUrl: 'https://rocket.chat',
+            externalUrl: 'https://www.unitel.com.la/',
           },
           {
             type: 'image',

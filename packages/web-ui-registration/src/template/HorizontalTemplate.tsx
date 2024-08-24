@@ -9,7 +9,7 @@ import {
 import { useSetting, useAssetWithDarkModePath } from '@rocket.chat/ui-contexts';
 import type { ReactElement, ReactNode } from 'react';
 
-import LoginPoweredBy from '../components/LoginPoweredBy';
+// import LoginPoweredBy from '../components/LoginPoweredBy';
 import LoginSwitchLanguageFooter from '../components/LoginSwitchLanguageFooter';
 import LoginTerms from '../components/LoginTerms';
 import { RegisterTitle } from '../components/RegisterTitle';
@@ -28,7 +28,7 @@ const HorizontalTemplate = ({ children }: { children: ReactNode }): ReactElement
 				<HorizontalWizardLayoutTitle>
 					<RegisterTitle />
 				</HorizontalWizardLayoutTitle>
-				<LoginPoweredBy />
+				{/* <LoginPoweredBy /> */}
 			</HorizontalWizardLayoutAside>
 			<HorizontalWizardLayoutContent>
 				{children}

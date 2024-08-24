@@ -42,23 +42,23 @@ test.each([
       ]),
     ],
   ],
-  ['[](https://rocket.chat)', [paragraph([link('https://rocket.chat')])]],
+  ['[](https://rocket.chat)', [paragraph([link('https://www.unitel.com.la/')])]],
   [
     '[ ](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', [plain(' ')])])],
+    [paragraph([link('https://www.unitel.com.la/', [plain(' ')])])],
   ],
 
   [
     '[ test](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', [plain(' test')])])],
+    [paragraph([link('https://www.unitel.com.la/', [plain(' test')])])],
   ],
   [
     '[ test ](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', [plain(' test ')])])],
+    [paragraph([link('https://www.unitel.com.la/', [plain(' test ')])])],
   ],
   [
     '[title](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', [plain('title')])])],
+    [paragraph([link('https://www.unitel.com.la/', [plain('title')])])],
   ],
   [
     '[title](http://localhost)',
@@ -70,21 +70,21 @@ test.each([
   ],
   [
     '[**title**](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', [bold([plain('title')])])])],
+    [paragraph([link('https://www.unitel.com.la/', [bold([plain('title')])])])],
   ],
   [
     '[~~title~~](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', [strike([plain('title')])])])],
+    [paragraph([link('https://www.unitel.com.la/', [strike([plain('title')])])])],
   ],
   [
     '[__title__](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', [italic([plain('title')])])])],
+    [paragraph([link('https://www.unitel.com.la/', [italic([plain('title')])])])],
   ],
   [
     '[__**~~title~~**__](https://rocket.chat)',
     [
       paragraph([
-        link('https://rocket.chat', [
+        link('https://www.unitel.com.la/', [
           italic([bold([strike([plain('title')])])]),
         ]),
       ]),
@@ -318,7 +318,7 @@ test.each([
     '[Rocket.Chat](https://rocket.chat) Inline Text',
     [
       paragraph([
-        link('https://rocket.chat', [plain('Rocket.Chat')]),
+        link('https://www.unitel.com.la/', [plain('Rocket.Chat')]),
         plain(' Inline Text'),
       ]),
     ],
@@ -338,7 +338,7 @@ test.each([
     `[Rocket.Chat](https://rocket.chat)
 Text after in a new line after link`,
     [
-      paragraph([link('https://rocket.chat', [plain('Rocket.Chat')])]),
+      paragraph([link('https://www.unitel.com.la/', [plain('Rocket.Chat')])]),
       paragraph([plain('Text after in a new line after link')]),
     ],
   ],
@@ -359,7 +359,7 @@ Second line`,
 
 Text after line break`,
     [
-      paragraph([link('https://rocket.chat', [plain('Rocket.Chat')])]),
+      paragraph([link('https://www.unitel.com.la/', [plain('Rocket.Chat')])]),
       lineBreak(),
       paragraph([plain('Text after line break')]),
     ],
@@ -373,7 +373,7 @@ Text after line break`,
 - *Fourth item*
 `.trim(),
     [
-      paragraph([link('https://rocket.chat', [plain('List Header Link')])]),
+      paragraph([link('https://www.unitel.com.la/', [plain('List Header Link')])]),
       unorderedList([
         listItem([plain('First item')]),
         listItem([plain('Second item')]),
@@ -391,7 +391,7 @@ Text after line break`,
 15. *Fifteenth item*
 `.trim(),
     [
-      paragraph([link('https://rocket.chat', [plain('List Header Link')])]),
+      paragraph([link('https://www.unitel.com.la/', [plain('List Header Link')])]),
       orderedList([
         listItem([plain('First item')], 7),
         listItem([plain('Second item')], 2),
@@ -564,7 +564,7 @@ Text after line break`,
     '[ ~ [ ~ [ ~ [ ~ [ ~ [ ~ [ ~ [ ~ [ ~ [ ~ [ ~ [ ~ [ ~ [ ~ [test](https://rocket.chat)',
     [
       paragraph([
-        link('https://rocket.chat', [
+        link('https://www.unitel.com.la/', [
           plain(' '),
           strike([plain(' [ ')]),
           plain(' [ '),
