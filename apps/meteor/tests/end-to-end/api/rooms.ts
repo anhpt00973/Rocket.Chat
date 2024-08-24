@@ -20,7 +20,7 @@ import { IS_EE } from '../../e2e/config/constants';
 
 const lstURL = './tests/e2e/fixtures/files/lst-test.lst';
 const drawioURL = './tests/e2e/fixtures/files/diagram.drawio';
-const svgLogoURL = './public/images/logo/logo.svg';
+const svgLogoURL = './public/images/logo/logo1.svg';
 const svgLogoFileName = 'logo.svg';
 
 describe('[Rooms]', () => {

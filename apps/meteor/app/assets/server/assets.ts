@@ -27,7 +27,7 @@ type IRocketChatAssetsConfig = Record<keyof IRocketChatAssets, IRocketChatAsset 
 const assets: IRocketChatAssetsConfig = {
 	logo: {
 		label: 'logo (svg, png, jpg)',
-		defaultUrl: 'images/logo/logo.svg',
+		defaultUrl: 'images/logo/logo1.svg',
 		constraints: {
 			type: 'image',
 			extensions: ['svg', 'png', 'jpg', 'jpeg'],

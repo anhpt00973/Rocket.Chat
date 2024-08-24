@@ -9,7 +9,7 @@ import { SidebarFooterWatermark } from './SidebarFooterWatermark';
 
 const SidebarFooterDefault = (): ReactElement => {
 	const [, , theme] = useThemeMode();
-	const logo = String(useSetting(theme === 'dark' ? 'Layout_Sidenav_Footer_Dark' : 'Layout_Sidenav_Footer')).trim();
+	const logo = String(useSetting(theme === 'dark' ? 'Layout_Sidenav_Footer_Dark' : 'Layout_Sidenav_Footer_Dark')).trim();
 
 	const sidebarFooterStyle = css`
 		& img {

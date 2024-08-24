@@ -56,7 +56,7 @@ const Header = (): ReactElement => {
 								<Directory title={t('Directory')} />
 								<Sort title={t('Display')} />
 								<CreateRoom title={t('Create_new')} data-qa='sidebar-create' />
-								<Administration title={t('Administration')} />
+								{/* <Administration title={t('Administration')} /> */}
 							</>
 						)}
 						{!user && <Login title={t('Login')} />}

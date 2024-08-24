@@ -132,7 +132,7 @@ export const createLayoutSettings = () =>
 				public: true,
 				i18nDescription: 'Layout_Sidenav_Footer_description',
 			});
-			return this.add('Layout_Sidenav_Footer', '<a href="/home"><img src="assets/newlogo.png" alt="Home" /></a>', {
+			return this.add('Layout_Sidenav_Footer', '<a href="/home"><img src="assets/logo_dark.png" alt="Home" /></a>', {
 				type: 'code',
 				code: 'text/html',
 				public: true,
