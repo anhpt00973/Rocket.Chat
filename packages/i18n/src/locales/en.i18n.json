@@ -6106,7 +6106,7 @@
   "registration.page.resetPassword.sent": "If this email is registered, we'll send instructions on how to reset your password. If you do not receive an email shortly, please come back and try again.",
   "registration.page.resetPassword.sendInstructions": "Send instructions",
   "registration.page.resetPassword.errors.invalidEmail": "Invalid Email",
-  "registration.page.poweredBy": "Powered by <1>SMC-Chat</1>",
+  "registration.page.poweredBy": "Powered by SMC-Chat",
   "registration.page.guest.chooseHowToJoin": "Choose how you want to join",
   "registration.page.guest.loginWithRocketChat": "Login with SMC-Chat",
   "registration.page.guest.continueAsGuest": "Continue as guest",
