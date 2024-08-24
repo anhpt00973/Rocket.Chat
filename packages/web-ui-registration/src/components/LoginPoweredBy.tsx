@@ -11,12 +11,6 @@ export const LoginPoweredBy = (): ReactElement | null => {
 	}
 	return (
 		<Box mbe={18}>
-			{/* <Trans i18nKey='registration.page.poweredBy'>
-				{'Powered by SMC-Chat'}
-				<Link href='https://www.unitel.com.la/' target='_blank' rel='noopener noreferrer'>
-					SMC-Chat
-				</Link>
-			</Trans> */}
 		</Box>
 	);
 };
