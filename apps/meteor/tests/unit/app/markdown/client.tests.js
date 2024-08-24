@@ -212,7 +212,7 @@ const link = {
 		encodeURI('https://open.rocket.chat/ '),
 		' Open Site For Rocket.Chat',
 	),
-	'<https://rocket.chat/|Rocket.Chat Site>': linkWrapped('https://rocket.chat/', 'Rocket.Chat Site'),
+	'<https://rocket.chat/|Rocket.Chat Site>': linkWrapped('https://www.unitel.com.la/', 'Rocket.Chat Site'),
 	'<https://rocket.chat/docs/developer-guides/testing/#testing|Testing Entry on Rocket.Chat Docs Site>': linkWrapped(
 		'https://rocket.chat/docs/developer-guides/testing/#testing',
 		'Testing Entry on Rocket.Chat Docs Site',
@@ -232,7 +232,7 @@ const link = {
 	'[Text](http://link)': linkWrapped('http://link', 'Text'),
 	'[Open Site For Rocket.Chat](https://open.rocket.chat/)': linkWrapped('https://open.rocket.chat/', 'Open Site For Rocket.Chat'),
 	'[ Open Site For Rocket.Chat ](https://open.rocket.chat/)': linkWrapped('https://open.rocket.chat/', ' Open Site For Rocket.Chat '),
-	'[Rocket.Chat Site](https://rocket.chat/)': linkWrapped('https://rocket.chat/', 'Rocket.Chat Site'),
+	'[Rocket.Chat Site](https://rocket.chat/)': linkWrapped('https://www.unitel.com.la/', 'Rocket.Chat Site'),
 	'[Testing Entry on Rocket.Chat Docs Site](https://rocket.chat/docs/developer-guides/testing/#testing)': linkWrapped(
 		'https://rocket.chat/docs/developer-guides/testing/#testing',
 		'Testing Entry on Rocket.Chat Docs Site',

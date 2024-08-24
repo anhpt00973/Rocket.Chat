@@ -2,10 +2,10 @@
 	"name": "@rocket.chat/ui-kit",
 	"version": "0.36.0",
 	"description": "Interactive UI elements for SMC-Chat Apps",
-	"homepage": "https://rocket.chat",
+	"homepage": "https://www.unitel.com.la/",
 	"author": {
 		"name": "SMC-Chat",
-		"url": "https://rocket.chat/"
+		"url": "https://www.unitel.com.la/"
 	},
 	"license": "MIT",
 	"repository": {

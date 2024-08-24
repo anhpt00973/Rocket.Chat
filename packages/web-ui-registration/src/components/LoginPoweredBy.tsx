@@ -13,7 +13,7 @@ export const LoginPoweredBy = (): ReactElement | null => {
 		<Box mbe={18}>
 			<Trans i18nKey='registration.page.poweredBy'>
 				{'Powered by '}
-				<Link href='https://rocket.chat/' target='_blank' rel='noopener noreferrer'>
+				<Link href='https://www.unitel.com.la/' target='_blank' rel='noopener noreferrer'>
 					SMC-Chat
 				</Link>
 			</Trans>

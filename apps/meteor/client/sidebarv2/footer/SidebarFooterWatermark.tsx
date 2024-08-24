@@ -28,7 +28,7 @@ export const SidebarFooterWatermark = (): ReactElement | null => {
 
 	return (
 		<Box pi={16} pbe={8}>
-			<Box is='a' href='https://rocket.chat/' target='_blank' rel='noopener noreferrer'>
+			<Box is='a' href='https://www.unitel.com.la/' target='_blank' rel='noopener noreferrer'>
 				<Box fontScale='micro' color='hint' pbe={4}>
 					{t('Powered_by_RocketChat')}
 				</Box>

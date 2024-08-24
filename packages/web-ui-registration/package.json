@@ -2,7 +2,7 @@
 	"name": "@rocket.chat/web-ui-registration",
 	"version": "9.0.0",
 	"private": true,
-	"homepage": "https://rocket.chat",
+	"homepage": "https://www.unitel.com.la/",
 	"main": "./dist/index.js",
 	"typings": "./dist/index.d.ts",
 	"files": [

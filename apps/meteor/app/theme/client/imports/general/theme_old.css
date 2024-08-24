@@ -23,10 +23,8 @@
 }
 
 :root {
-	/* --rcx-color-surface-light: var(--content-background-color);
-	--rcx-color-background-light: var(--content-background-color); */
-	--rcx-color-surface-light: #2f343d;
-	--rcx-color-background-light: #2f343d;
+	--rcx-color-surface-light: var(--content-background-color);
+	--rcx-color-background-light: var(--content-background-color);
 }
 
 .primary-background-color {
