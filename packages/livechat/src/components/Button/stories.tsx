@@ -23,8 +23,8 @@ export default {
 		badge: undefined,
 		icon: null,
 		img: undefined,
-		children: 'Powered by SMC-Chat',
-		onClick: action('clicked'),
+		// children: 'Powered by SMC-Chat',
+		// onClick: action('clicked'),
 	},
 	argTypes: {
 		icon: {

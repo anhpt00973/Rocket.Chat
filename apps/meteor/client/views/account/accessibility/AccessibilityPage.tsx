@@ -93,20 +93,20 @@ const AccessibilityPage = () => {
 						<Box pb={16} is='p'>
 							{t('Accessibility_activation')}
 						</Box>
-						<p id={linkListId}>{t('Learn_more_about_accessibility')}</p>
+						{/* <p id={linkListId}>{t('Learn_more_about_accessibility')}</p>
 						<ul aria-labelledby={linkListId}>
 							<li>
-								<ExternalLink to='https://go.rocket.chat/i/accessibility-statement'>{t('Accessibility_statement')}</ExternalLink>
+								<ExternalLink to='/'>{t('Accessibility_statement')}</ExternalLink>
 							</li>
 							<li>
-								<ExternalLink to='https://go.rocket.chat/i/glossary'>{t('Glossary_of_simplified_terms')}</ExternalLink>
+								<ExternalLink to='/'>{t('Glossary_of_simplified_terms')}</ExternalLink>
 							</li>
 							<li>
-								<ExternalLink to='https://go.rocket.chat/i/accessibility-and-appearance'>
+								<ExternalLink to='/'>
 									{t('Accessibility_feature_documentation')}
 								</ExternalLink>
 							</li>
-						</ul>
+						</ul> */}
 					</Box>
 					<Accordion>
 						<Accordion.Item defaultExpanded={true} title={t('Theme')}>
