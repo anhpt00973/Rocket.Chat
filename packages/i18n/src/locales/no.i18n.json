@@ -4489,7 +4489,7 @@
   "registration.page.guest.chooseHowToJoin": "Velg hvordan du vil bli med",
   "registration.page.guest.loginWithRocketChat": "Logg inn med SMC-Chat",
   "registration.page.guest.continueAsGuest": "Fortsett som gjest",
-  "registration.component.welcome": "Velkommen til <1>SMC-Chat</1> arbeidsområdet",
+  "registration.component.welcome": "Velkommen til SMC-Chat arbeidsområdet",
   "registration.component.login": "Logg inn",
   "registration.component.login.userNotFound": "Bruker ikke funnet",
   "registration.component.login.incorrectPassword": "feil passord",

@@ -3347,7 +3347,7 @@
   "registration.page.login.forgot": "Password dimenticata",
   "registration.page.resetPassword.sent": "Se questa email è registrata, invieremo istruzioni su come reimpostare la propria password. Se non la ricevi in breve tempo, si prega di ritornare e riprovare.",
   "registration.page.guest.continueAsGuest": "Continua come ospite",
-  "registration.component.welcome": "Benvenuti nello spazio di lavoro di <1>SMC-Chat</1> ",
+  "registration.component.welcome": "Benvenuti nello spazio di lavoro di SMC-Chat ",
   "registration.component.login": "Login",
   "registration.component.login.userNotFound": "Utente non trovato",
   "registration.component.login.incorrectPassword": "Password errata",

@@ -6110,7 +6110,7 @@
   "registration.page.guest.chooseHowToJoin": "Choose how you want to join",
   "registration.page.guest.loginWithRocketChat": "Login with SMC-Chat",
   "registration.page.guest.continueAsGuest": "Continue as guest",
-  "registration.component.welcome": "Welcome to <1>SMC-Chat</1> workspace",
+  "registration.component.welcome": "Welcome to SMC-Chat workspace",
   "registration.component.login": "Login",
   "registration.component.login.userNotFound": "User not found",
   "registration.component.login.incorrectPassword": "Incorrect password",
