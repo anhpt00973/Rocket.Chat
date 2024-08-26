@@ -20,7 +20,7 @@ test.describe('Translations', () => {
 	test("expect to display text in the user's preference language", async ({ page, api }) => {
 		await page.goto('/home');
 		await page.waitForTimeout(5000);
-		await expect(page.locator('h2')).toHaveText('Welcome to Star Media's workplace');
+		await expect(page.locator('h2')).toHaveText('Welcome to Star Media\'s workplace');
 
 		const response = page.waitForResponse('**/i18n/pt-BR.json');
 		expect((await setUserPreferences(api, { language: 'pt-BR' })).status()).toBe(200);
@@ -31,7 +31,7 @@ test.describe('Translations', () => {
 
 	test('expect to keep chosen language after refresh', async ({ page, api }) => {
 		await page.goto('/home');
-		await expect(page.locator('h2')).toHaveText('Welcome to Star Media's workplace');
+		await expect(page.locator('h2')).toHaveText('Welcome to Star Media\'s workplace');
 
 		const response = page.waitForResponse('**/i18n/pt-BR.json');
 		expect((await setUserPreferences(api, { language: 'pt-BR' })).status()).toBe(200);

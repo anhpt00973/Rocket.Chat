@@ -64,7 +64,7 @@ Meteor.startup(() => {
 		);
 	});
 
-	settings.watch('Site_Name', (value = 'Rocket.Chat') => {
+	settings.watch('Site_Name', (value = 'Star Media workplace') => {
 		const escapedValue = escapeHTML(value);
 		injectIntoHead(
 			'Site_Name',
