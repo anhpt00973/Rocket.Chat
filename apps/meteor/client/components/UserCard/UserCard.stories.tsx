@@ -15,7 +15,7 @@ export default {
 		roles: (
 			<>
 				<UserCardRole>Admin</UserCardRole>
-				<UserCardRole>SMC-Chat</UserCardRole>
+				<UserCardRole>Star Media's workplace</UserCardRole>
 				<UserCardRole>Team</UserCardRole>
 			</>
 		),

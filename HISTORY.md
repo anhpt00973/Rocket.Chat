@@ -1458,7 +1458,7 @@
 
 - Theme changes on clicking Label ([#28397](https://github.com/RocketChat/Rocket.Chat/pull/28397) by [@AdityaSingh-02](https://github.com/AdityaSingh-02))
 
-  As we know SMC-Chat v6.0.0 came with Different themes , where we could simply switch between dark and light mode, but the issue was that When we were wishing to change theme we could only do that by clicking the radio button, but i have made few changes in file where we can also change theme by clicking the label
+  As we know Star Media's workplace v6.0.0 came with Different themes , where we could simply switch between dark and light mode, but the issue was that When we were wishing to change theme we could only do that by clicking the radio button, but i have made few changes in file where we can also change theme by clicking the label
 
 
 
@@ -20201,7 +20201,7 @@
 
 - Omnichannel - Contact Center form is not validating custom fields properly ([#20196](https://github.com/RocketChat/Rocket.Chat/pull/20196) by [@rafaelblink](https://github.com/rafaelblink))
 
-  The contact form is accepting undefined values in required custom fields when creating or editing contacts, and, the errror message isn't following SMC-Chat design system.
+  The contact form is accepting undefined values in required custom fields when creating or editing contacts, and, the errror message isn't following Star Media's workplace design system.
 
   ### Before
   ![image](https://user-images.githubusercontent.com/2493803/104522668-31688980-55dd-11eb-92c5-83f96073edc4.png)

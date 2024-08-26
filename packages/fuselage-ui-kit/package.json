@@ -2,10 +2,10 @@
   "name": "@rocket.chat/fuselage-ui-kit",
   "private": true,
   "version": "9.0.0",
-  "description": "UiKit elements for SMC-Chat Apps built under Fuselage design system",
-  "homepage": "https://rocketchat.github.io/SMC-Chat.Fuselage/",
+  "description": "UiKit elements for Star Media's workplace Apps built under Fuselage design system",
+  "homepage": "https://rocketchat.github.io/Star Media's workplace.Fuselage/",
   "author": {
-    "name": "SMC-Chat",
+    "name": "Star Media's workplace",
     "url": "https://www.unitel.com.la/"
   },
   "license": "MIT",

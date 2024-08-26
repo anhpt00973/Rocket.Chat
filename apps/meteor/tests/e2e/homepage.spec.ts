@@ -90,7 +90,7 @@ test.describe.serial('homepage', () => {
 
 				test('display custom content only', async () => {
 					await test.step('expect default layout to not be visible (show only custom content card)', async () => {
-						await expect(adminPage.locator('role=heading[name="Welcome to SMC-Chat"]')).not.toBeVisible();
+						await expect(adminPage.locator('role=heading[name="Welcome to Star Media's workplace"]')).not.toBeVisible();
 					});
 
 					await test.step('expect correct state for card buttons', async () => {
@@ -138,7 +138,7 @@ test.describe.serial('homepage', () => {
 			});
 
 			await test.step('expect welcome text to use Site_Name default setting', async () => {
-				await expect(regularUserPage.locator('role=heading[name="Welcome to SMC-Chat"]')).toBeVisible();
+				await expect(regularUserPage.locator('role=heading[name="Welcome to Star Media's workplace"]')).toBeVisible();
 			});
 
 			await test.step('expect header text to use Layout_Home_Title default setting', async () => {

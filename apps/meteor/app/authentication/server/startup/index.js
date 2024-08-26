@@ -430,7 +430,7 @@ const validateLoginAttemptAsync = async function (login) {
 
 	/**
 	 * Trigger the event only when the
-	 * user does login in SMC-Chat
+	 * user does login in Star Media's workplace
 	 */
 	if (login.type !== 'resume') {
 		// App IPostUserLoggedIn event hook

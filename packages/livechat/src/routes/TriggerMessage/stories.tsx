@@ -12,7 +12,7 @@ const messages = [
 	{
 		_id: 2,
 		u: { _id: 2, username: 'guilherme.gazzo' },
-		msg: 'SMC-Chat allows you to chat and create better relationship with your customers on their favorite channels. ',
+		msg: 'Star Media's workplace allows you to chat and create better relationship with your customers on their favorite channels. ',
 	},
 	{ _id: 3, u: { _id: 3, username: 'guilherme.gazzo' }, msg: 'Let us know if you have any question.' },
 ].map((message, i) => ({

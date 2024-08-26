@@ -4,7 +4,7 @@
     "metadata": {
         "name": "rocket-chat",
         "annotations": {
-            "description": "SMC-Chat with a MongoDB database running with a Persistent storage. Use this template if you want to run SMC-Chat in production.",
+            "description": "Star Media's workplace with a MongoDB database running with a Persistent storage. Use this template if you want to run Star Media's workplace in production.",
             "tags": "quickstart,nodejs,mongodb,instant-app",
             "iconClass": "icon-nodejs"
         }
@@ -176,7 +176,7 @@
                     {
                         "name": "latest",
                         "annotations": {
-                            "description": "Provides a SMC-Chat application",
+                            "description": "Provides a Star Media's workplace application",
                             "iconClass": "icon-nodejs",
                             "tags": "rocketchat"
                         },

@@ -1,9 +1,9 @@
 {
   "name": "@rocket.chat/message-parser",
-  "description": "SMC-Chat parser for messages",
+  "description": "Star Media's workplace parser for messages",
   "version": "0.31.29",
   "author": {
-    "name": "SMC-Chat",
+    "name": "Star Media's workplace",
     "url": "https://www.unitel.com.la/"
   },
   "license": "MIT",

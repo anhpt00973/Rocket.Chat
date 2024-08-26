@@ -7983,7 +7983,7 @@
 
 - Omnichannel - Contact Center form is not validating custom fields properly ([#20196](https://github.com/RocketChat/Rocket.Chat/pull/20196) by [@rafaelblink](https://github.com/rafaelblink))
 
-  The contact form is accepting undefined values in required custom fields when creating or editing contacts, and, the errror message isn't following SMC-Chat design system.
+  The contact form is accepting undefined values in required custom fields when creating or editing contacts, and, the errror message isn't following Star Media's workplace design system.
 
   ### Before
   ![image](https://user-images.githubusercontent.com/2493803/104522668-31688980-55dd-11eb-92c5-83f96073edc4.png)

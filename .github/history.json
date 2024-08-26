@@ -4405,7 +4405,7 @@
         },
         {
           "pr": "7643",
-          "title": "[NEW] SMC-Chat UI Redesign",
+          "title": "[NEW] Star Media's workplace UI Redesign",
           "userLogin": "MartinSchoeler",
           "contributors": [
             null,
@@ -6499,7 +6499,7 @@
         },
         {
           "pr": "9044",
-          "title": "[FIX] Can't use OAuth login against a SMC-Chat OAuth server",
+          "title": "[FIX] Can't use OAuth login against a Star Media's workplace OAuth server",
           "userLogin": "geekgonecrazy",
           "milestone": "0.60.0",
           "contributors": [
@@ -7401,7 +7401,7 @@
         },
         {
           "pr": "8588",
-          "title": "[FIX] Changed all SMC-Chat/docs/ to docs.SMC-Chat/",
+          "title": "[FIX] Changed all Star Media's workplace/docs/ to docs.Star Media's workplace/",
           "userLogin": "RekkyRek",
           "contributors": [
             "RekkyRek",
@@ -8883,7 +8883,7 @@
         },
         {
           "pr": "9062",
-          "title": "[FIX] Update SMC-Chat for sandstorm",
+          "title": "[FIX] Update Star Media's workplace for sandstorm",
           "userLogin": "peterlee0127",
           "milestone": "0.60.0",
           "contributors": [
@@ -10383,7 +10383,7 @@
         },
         {
           "pr": "9062",
-          "title": "[FIX] Update SMC-Chat for sandstorm",
+          "title": "[FIX] Update Star Media's workplace for sandstorm",
           "userLogin": "peterlee0127",
           "milestone": "0.60.0",
           "contributors": [
@@ -10850,7 +10850,7 @@
         },
         {
           "pr": "9666",
-          "title": "[OTHER] SMC-Chat Apps",
+          "title": "[OTHER] Star Media's workplace Apps",
           "userLogin": "graywolf336",
           "milestone": "0.62.0",
           "contributors": [
@@ -11994,7 +11994,7 @@
         },
         {
           "pr": "10154",
-          "title": "Add a few listener supports for the SMC-Chat Apps",
+          "title": "Add a few listener supports for the Star Media's workplace Apps",
           "userLogin": "graywolf336",
           "milestone": "0.63.0",
           "contributors": [
@@ -12379,7 +12379,7 @@
         },
         {
           "pr": "10252",
-          "title": "Fix: possible errors on SMC-Chat side of the apps",
+          "title": "Fix: possible errors on Star Media's workplace side of the apps",
           "userLogin": "graywolf336",
           "milestone": "0.63.0",
           "contributors": [
@@ -13613,7 +13613,7 @@
         },
         {
           "pr": "10575",
-          "title": "Regression: SMC-Chat App author link opens in same window",
+          "title": "Regression: Star Media's workplace App author link opens in same window",
           "userLogin": "kaiiiiiiiii",
           "milestone": "0.64.0",
           "contributors": [
@@ -13917,7 +13917,7 @@
         },
         {
           "pr": "10705",
-          "title": "[FIX] Missing attachment description when SMC-Chat Apps were enabled",
+          "title": "[FIX] Missing attachment description when Star Media's workplace Apps were enabled",
           "userLogin": "Hudell",
           "milestone": "0.64.2",
           "contributors": [
@@ -14324,7 +14324,7 @@
         },
         {
           "pr": "10705",
-          "title": "[FIX] Missing attachment description when SMC-Chat Apps were enabled",
+          "title": "[FIX] Missing attachment description when Star Media's workplace Apps were enabled",
           "userLogin": "Hudell",
           "milestone": "0.64.2",
           "contributors": [
@@ -14822,7 +14822,7 @@
         },
         {
           "pr": "10705",
-          "title": "[FIX] Missing attachment description when SMC-Chat Apps were enabled",
+          "title": "[FIX] Missing attachment description when Star Media's workplace Apps were enabled",
           "userLogin": "Hudell",
           "milestone": "0.64.2",
           "contributors": [
@@ -15573,7 +15573,7 @@
         },
         {
           "pr": "10205",
-          "title": "[NEW] Support for dynamic slack and SMC-Chat channels",
+          "title": "[NEW] Support for dynamic slack and Star Media's workplace channels",
           "userLogin": "Hudell",
           "milestone": "0.66.0",
           "contributors": [
@@ -18445,7 +18445,7 @@
         },
         {
           "pr": "11684",
-          "title": "[IMPROVE] Add nyan rocket on SMC-Chat preview Docker image",
+          "title": "[IMPROVE] Add nyan rocket on Star Media's workplace preview Docker image",
           "userLogin": "ggazzo",
           "contributors": [
             "ggazzo",
@@ -21552,7 +21552,7 @@
         },
         {
           "pr": "12680",
-          "title": "[IMPROVE] Add more methods to deal with rooms via SMC-Chat.Apps",
+          "title": "[IMPROVE] Add more methods to deal with rooms via Star Media's workplace.Apps",
           "userLogin": "marceloschmidt",
           "milestone": "0.72.0",
           "contributors": [
@@ -23134,7 +23134,7 @@
         },
         {
           "pr": "12680",
-          "title": "[IMPROVE] Add more methods to deal with rooms via SMC-Chat.Apps",
+          "title": "[IMPROVE] Add more methods to deal with rooms via Star Media's workplace.Apps",
           "userLogin": "marceloschmidt",
           "milestone": "0.72.0",
           "contributors": [
@@ -25990,7 +25990,7 @@
         },
         {
           "pr": "13809",
-          "title": "[NEW] Marketplace integration with SMC-Chat Cloud",
+          "title": "[NEW] Marketplace integration with Star Media's workplace Cloud",
           "userLogin": "rodrigok",
           "milestone": "1.0.0",
           "contributors": [
@@ -26295,7 +26295,7 @@
         },
         {
           "pr": "13784",
-          "title": "[FIX] In home screen SMC-Chat+ is dispalyed as SMC-Chat",
+          "title": "[FIX] In home screen Star Media's workplace+ is dispalyed as Star Media's workplace",
           "userLogin": "ashwaniYDV",
           "contributors": [
             "ashwaniYDV"
@@ -29377,7 +29377,7 @@
         },
         {
           "pr": "14227",
-          "title": "[BREAK] Require OPLOG/REPLICASET to run SMC-Chat",
+          "title": "[BREAK] Require OPLOG/REPLICASET to run Star Media's workplace",
           "userLogin": "rodrigok",
           "milestone": "1.0.0",
           "contributors": [
@@ -29685,7 +29685,7 @@
         },
         {
           "pr": "14258",
-          "title": "Improve: Marketplace auth inside SMC-Chat instead of inside the iframe.  ",
+          "title": "Improve: Marketplace auth inside Star Media's workplace instead of inside the iframe.  ",
           "userLogin": "geekgonecrazy",
           "contributors": [
             "geekgonecrazy",
@@ -33585,7 +33585,7 @@
         },
         {
           "pr": "15214",
-          "title": "[NEW] Assume that SMC-Chat runs behind one proxy by default (HTTP_FORWARDED_COUNT=1)",
+          "title": "[NEW] Assume that Star Media's workplace runs behind one proxy by default (HTTP_FORWARDED_COUNT=1)",
           "userLogin": "rodrigok",
           "milestone": "2.0.0",
           "contributors": [
@@ -34838,7 +34838,7 @@
         },
         {
           "pr": "15346",
-          "title": "[FIX] CAS users can take control of SMC-Chat accounts",
+          "title": "[FIX] CAS users can take control of Star Media's workplace accounts",
           "userLogin": "pierre-lehnen-rc",
           "milestone": "2.1.0",
           "contributors": [
@@ -38420,7 +38420,7 @@
         },
         {
           "pr": "16048",
-          "title": "[NEW] UiKit - Interactive UI elements for SMC-Chat Apps",
+          "title": "[NEW] UiKit - Interactive UI elements for Star Media's workplace Apps",
           "userLogin": "d-gubert",
           "contributors": [
             "ggazzo",
@@ -39933,7 +39933,7 @@
         },
         {
           "pr": "16723",
-          "title": "[FIX] SMC-Chat takes too long to set the username when it fails to send enrollment email",
+          "title": "[FIX] Star Media's workplace takes too long to set the username when it fails to send enrollment email",
           "userLogin": "pierre-lehnen-rc",
           "milestone": "3.0.3",
           "contributors": [
@@ -40979,7 +40979,7 @@
         },
         {
           "pr": "16723",
-          "title": "[FIX] SMC-Chat takes too long to set the username when it fails to send enrollment email",
+          "title": "[FIX] Star Media's workplace takes too long to set the username when it fails to send enrollment email",
           "userLogin": "pierre-lehnen-rc",
           "milestone": "3.0.3",
           "contributors": [
@@ -42805,7 +42805,7 @@
         },
         {
           "pr": "16683",
-          "title": "[NEW] Adds ability for SMC-Chat Apps to create discussions",
+          "title": "[NEW] Adds ability for Star Media's workplace Apps to create discussions",
           "userLogin": "marceloschmidt",
           "milestone": "3.2.0",
           "contributors": [
@@ -44442,7 +44442,7 @@
         },
         {
           "pr": "17040",
-          "title": "DPlatform is deprecated and the replacement does not support SMC-Chat",
+          "title": "DPlatform is deprecated and the replacement does not support Star Media's workplace",
           "userLogin": "ryjones",
           "contributors": [
             "ryjones"
@@ -51067,7 +51067,7 @@
         },
         {
           "pr": "19411",
-          "title": "Regression: SMC-Chat Apps updates always fail",
+          "title": "Regression: Star Media's workplace Apps updates always fail",
           "userLogin": "d-gubert",
           "milestone": "3.8.0",
           "contributors": [
@@ -54270,7 +54270,7 @@
           "pr": "20196",
           "title": "[FIX] Omnichannel - Contact Center form is not validating custom fields properly",
           "userLogin": "rafaelblink",
-          "description": "The contact form is accepting undefined values in required custom fields when creating or editing contacts, and, the errror message isn't following SMC-Chat design system.\r\n\r\n### Before\r\n![image](https://user-images.githubusercontent.com/2493803/104522668-31688980-55dd-11eb-92c5-83f96073edc4.png)\r\n\r\n### After\r\n\r\n#### New\r\n![image](https://user-images.githubusercontent.com/2493803/104770494-68f74300-574f-11eb-94a3-c8fd73365308.png)\r\n\r\n\r\n#### Edit\r\n![image](https://user-images.githubusercontent.com/2493803/104770538-7b717c80-574f-11eb-829f-1ae304103369.png)",
+          "description": "The contact form is accepting undefined values in required custom fields when creating or editing contacts, and, the errror message isn't following Star Media's workplace design system.\r\n\r\n### Before\r\n![image](https://user-images.githubusercontent.com/2493803/104522668-31688980-55dd-11eb-92c5-83f96073edc4.png)\r\n\r\n### After\r\n\r\n#### New\r\n![image](https://user-images.githubusercontent.com/2493803/104770494-68f74300-574f-11eb-94a3-c8fd73365308.png)\r\n\r\n\r\n#### Edit\r\n![image](https://user-images.githubusercontent.com/2493803/104770538-7b717c80-574f-11eb-829f-1ae304103369.png)",
           "milestone": "3.11.0",
           "contributors": [
             "rafaelblink",
@@ -54398,7 +54398,7 @@
           "pr": "20124",
           "title": "[FIX] Livechat.RegisterGuest method removing unset fields",
           "userLogin": "renatobecker",
-          "description": "After changes made on https://github.com/RocketChat/SMC-Chat/pull/19931, the `Livechat.RegisterGuest` method started removing properties from the visitor inappropriately. The properties that did not receive value were removed from the object.\r\nThose changes were made to support the new Contact Form, but now the form has its own method to deal with Contact data so those changes are no longer necessary.",
+          "description": "After changes made on https://github.com/RocketChat/Star Media's workplace/pull/19931, the `Livechat.RegisterGuest` method started removing properties from the visitor inappropriately. The properties that did not receive value were removed from the object.\r\nThose changes were made to support the new Contact Form, but now the form has its own method to deal with Contact data so those changes are no longer necessary.",
           "milestone": "3.11.0",
           "contributors": [
             "ggazzo",
@@ -54755,7 +54755,7 @@
           "pr": "19916",
           "title": "Add translation of Edit Status in all languages",
           "userLogin": "sushant52",
-          "description": "Closes [#19915](https://github.com/RocketChat/SMC-Chat/issues/19915)\r\nThe profile options menu is well translated in many languages. However, Edit Status is the only button which is not well translated. With this change, the whole profile options will be properly translated in a lot of languages.",
+          "description": "Closes [#19915](https://github.com/RocketChat/Star Media's workplace/issues/19915)\r\nThe profile options menu is well translated in many languages. However, Edit Status is the only button which is not well translated. With this change, the whole profile options will be properly translated in a lot of languages.",
           "contributors": [
             "sushant52",
             "sampaiodiego",
@@ -55173,7 +55173,7 @@
           "pr": "20523",
           "title": "Regression: Apps-Engine - Convert streams to buffers on file upload",
           "userLogin": "d-gubert",
-          "description": "This is an implementation to accommodate the changes in API for the `IPreFileUpload` hook in the Apps-Engine. Explanation on the reasoning for it is here https://github.com/RocketChat/SMC-Chat.Apps-engine/pull/376",
+          "description": "This is an implementation to accommodate the changes in API for the `IPreFileUpload` hook in the Apps-Engine. Explanation on the reasoning for it is here https://github.com/RocketChat/Star Media's workplace.Apps-engine/pull/376",
           "milestone": "3.11.0",
           "contributors": [
             "d-gubert",
@@ -55258,7 +55258,7 @@
           "pr": "20653",
           "title": "[FIX] Livechat bridge permission checkers",
           "userLogin": "d-gubert",
-          "description": "Update to latest patch version of the Apps-Engine with a fix for the Livechat bridge, as seen in https://github.com/RocketChat/SMC-Chat.Apps-engine/pull/379",
+          "description": "Update to latest patch version of the Apps-Engine with a fix for the Livechat bridge, as seen in https://github.com/RocketChat/Star Media's workplace.Apps-engine/pull/379",
           "milestone": "3.11.1",
           "contributors": [
             "d-gubert",
@@ -55323,7 +55323,7 @@
           "pr": "20838",
           "title": "[NEW] Cloud Workspace bridge",
           "userLogin": "d-gubert",
-          "description": "Adds the new CloudWorkspace functionality.\r\n\r\nIt allows apps to request the access token for the workspace it's installed on, so it can perform actions with other SMC-Chat services, such as the Omni Gateway.\r\n\r\nhttps://github.com/RocketChat/SMC-Chat.Apps-engine/pull/382",
+          "description": "Adds the new CloudWorkspace functionality.\r\n\r\nIt allows apps to request the access token for the workspace it's installed on, so it can perform actions with other Star Media's workplace services, such as the Omni Gateway.\r\n\r\nhttps://github.com/RocketChat/Star Media's workplace.Apps-engine/pull/382",
           "milestone": "3.12.0",
           "contributors": [
             "d-gubert",
@@ -55975,7 +55975,7 @@
           "pr": "20653",
           "title": "[FIX] Livechat bridge permission checkers",
           "userLogin": "d-gubert",
-          "description": "Update to latest patch version of the Apps-Engine with a fix for the Livechat bridge, as seen in https://github.com/RocketChat/SMC-Chat.Apps-engine/pull/379",
+          "description": "Update to latest patch version of the Apps-Engine with a fix for the Livechat bridge, as seen in https://github.com/RocketChat/Star Media's workplace.Apps-engine/pull/379",
           "milestone": "3.11.1",
           "contributors": [
             "d-gubert",
@@ -56798,7 +56798,7 @@
           "pr": "20966",
           "title": "[NEW] Teams",
           "userLogin": "gabriellsh",
-          "description": "## Teams\r\n\r\n\r\n\r\nYou can easily group your users as Teams on SMC-Chat. The feature takes the hassle out of managing multiple users one by one and allows you to handle them at the same time efficiently.\r\n\r\n\r\n- Teams can be public or private and each team can have its own channels, which also can be public or private.\r\n- It's possible to add existing channels to a Team or create new ones inside a Team.\r\n- It's possible to invite people outside a Team to join Team's channels.\r\n- It's possible to convert channels to Teams\r\n- It's possible to add all team members to a channel at once\r\n- Team members have roles\r\n\r\n\r\n![image](https://user-images.githubusercontent.com/70927132/113421955-4f56b680-93a2-11eb-80dc-9b70a3f09b3e.png)\r\n\r\n\r\n\r\n**Quickly onboard new users with Autojoin channels**\r\n\r\nTeams can have Auto-join channels –  channels to which the team members are automatically added, so you don’t need to go through the manual process of adding users repetitively\r\n\r\n![image](https://user-images.githubusercontent.com/70927132/113419284-81194e80-939d-11eb-9fff-aeb05cbc8089.png)\r\n\r\n**Instantly mention multiple members at once** (available in EE)\r\n\r\nWith Teams, you don’t need to remember everyone’s name to communicate with a team quickly. Just mention a Team — @engineers, for instance —  and all members will be instantly notified.",
+          "description": "## Teams\r\n\r\n\r\n\r\nYou can easily group your users as Teams on Star Media's workplace. The feature takes the hassle out of managing multiple users one by one and allows you to handle them at the same time efficiently.\r\n\r\n\r\n- Teams can be public or private and each team can have its own channels, which also can be public or private.\r\n- It's possible to add existing channels to a Team or create new ones inside a Team.\r\n- It's possible to invite people outside a Team to join Team's channels.\r\n- It's possible to convert channels to Teams\r\n- It's possible to add all team members to a channel at once\r\n- Team members have roles\r\n\r\n\r\n![image](https://user-images.githubusercontent.com/70927132/113421955-4f56b680-93a2-11eb-80dc-9b70a3f09b3e.png)\r\n\r\n\r\n\r\n**Quickly onboard new users with Autojoin channels**\r\n\r\nTeams can have Auto-join channels –  channels to which the team members are automatically added, so you don’t need to go through the manual process of adding users repetitively\r\n\r\n![image](https://user-images.githubusercontent.com/70927132/113419284-81194e80-939d-11eb-9fff-aeb05cbc8089.png)\r\n\r\n**Instantly mention multiple members at once** (available in EE)\r\n\r\nWith Teams, you don’t need to remember everyone’s name to communicate with a team quickly. Just mention a Team — @engineers, for instance —  and all members will be instantly notified.",
           "milestone": "3.13.0",
           "contributors": [
             "matheusbsilva137",
@@ -57059,7 +57059,7 @@
           "pr": "20569",
           "title": "[FIX] OEmbedURLWidget - Show Full Embedded Text Description",
           "userLogin": "aditya-mitra",
-          "description": "Embeds were cutoff when either _urls had a long description_.\r\nThis was handled by removing `overflow:hidden;text-overflow:ellipsis;` from the inline styles in [`oembedUrlWidget.html`](https://github.com/RocketChat/SMC-Chat/blob/develop/app/oembed/client/oembedUrlWidget.html#L28).\r\n\r\n### Earlier\r\n\r\n![earlier](https://user-images.githubusercontent.com/55396651/107110825-00dcde00-6871-11eb-866e-13cabc5b0d05.png)\r\n\r\n### Now\r\n\r\n![now](https://user-images.githubusercontent.com/55396651/107110794-ca06c800-6870-11eb-9b3b-168679936612.png)",
+          "description": "Embeds were cutoff when either _urls had a long description_.\r\nThis was handled by removing `overflow:hidden;text-overflow:ellipsis;` from the inline styles in [`oembedUrlWidget.html`](https://github.com/RocketChat/Star Media's workplace/blob/develop/app/oembed/client/oembedUrlWidget.html#L28).\r\n\r\n### Earlier\r\n\r\n![earlier](https://user-images.githubusercontent.com/55396651/107110825-00dcde00-6871-11eb-866e-13cabc5b0d05.png)\r\n\r\n### Now\r\n\r\n![now](https://user-images.githubusercontent.com/55396651/107110794-ca06c800-6870-11eb-9b3b-168679936612.png)",
           "contributors": [
             "aditya-mitra",
             "tassoevan",
@@ -59159,9 +59159,9 @@
         },
         {
           "pr": "20478",
-          "title": " Doc: Corrected links to documentation of SMC-Chat README.md ",
+          "title": " Doc: Corrected links to documentation of Star Media's workplace README.md ",
           "userLogin": "joshi008",
-          "description": "The link for documentation in the readme was previously https://SMC-Chat/docs/ while that was not working and according to the website it was https://docs.SMC-Chat/\r\nThe link for deployment methods in readme was corrected from https://SMC-Chat/docs/installation/paas-deployments/ to https://docs.SMC-Chat/installation/paas-deployments\r\nSome more links to the documentations were giving 404 error which hence updated.",
+          "description": "The link for documentation in the readme was previously https://Star Media's workplace/docs/ while that was not working and according to the website it was https://docs.Star Media's workplace/\r\nThe link for deployment methods in readme was corrected from https://Star Media's workplace/docs/installation/paas-deployments/ to https://docs.Star Media's workplace/installation/paas-deployments\r\nSome more links to the documentations were giving 404 error which hence updated.",
           "contributors": [
             "joshi008",
             "web-flow"
@@ -59531,7 +59531,7 @@
           "pr": "22052",
           "title": "[NEW] Paginated and Filtered selects on new/edit unit",
           "userLogin": "MartinSchoeler",
-          "description": "REQUIRES https://github.com/RocketChat/SMC-Chat.Fuselage/pull/447\r\n\r\nAdds infinite scrolling selects to the units edit/create  with the ability to be filtered by text as well\r\n\r\n![Screen Shot 2021-05-17 at 9 24 19 AM](https://user-images.githubusercontent.com/20868078/118487999-abc32a80-b6f1-11eb-8d58-d031111ea0fb.png)\r\n\r\nThis Affects the monitors and departments inputs",
+          "description": "REQUIRES https://github.com/RocketChat/Star Media's workplace.Fuselage/pull/447\r\n\r\nAdds infinite scrolling selects to the units edit/create  with the ability to be filtered by text as well\r\n\r\n![Screen Shot 2021-05-17 at 9 24 19 AM](https://user-images.githubusercontent.com/20868078/118487999-abc32a80-b6f1-11eb-8d58-d031111ea0fb.png)\r\n\r\nThis Affects the monitors and departments inputs",
           "milestone": "3.14.1",
           "contributors": [
             "rafaelblink",
@@ -59930,9 +59930,9 @@
         },
         {
           "pr": "22080",
-          "title": "Chore: Update Docker container references to use registry.SMC-Chat endpoint",
+          "title": "Chore: Update Docker container references to use registry.Star Media's workplace endpoint",
           "userLogin": "aviaviavi",
-          "description": "This change updates the Docker installation instructions to use the new registry.SMC-Chat endpoint to pull the rocketchat/SMC-Chat container. This is part of the rollout described here: https://SMC-Chat/blog/product/docker-images-change/",
+          "description": "This change updates the Docker installation instructions to use the new registry.Star Media's workplace endpoint to pull the rocketchat/Star Media's workplace container. This is part of the rollout described here: https://Star Media's workplace/blog/product/docker-images-change/",
           "contributors": [
             "aviaviavi"
           ]
@@ -59957,7 +59957,7 @@
         },
         {
           "pr": "22059",
-          "title": "regression: bump SMC-Chat.Fuselage package with paginated selects",
+          "title": "regression: bump Star Media's workplace.Fuselage package with paginated selects",
           "userLogin": "tiagoevanp",
           "milestone": "3.14.1",
           "contributors": [
@@ -59978,7 +59978,7 @@
           "pr": "22052",
           "title": "[NEW] Paginated and Filtered selects on new/edit unit",
           "userLogin": "MartinSchoeler",
-          "description": "REQUIRES https://github.com/RocketChat/SMC-Chat.Fuselage/pull/447\r\n\r\nAdds infinite scrolling selects to the units edit/create  with the ability to be filtered by text as well\r\n\r\n![Screen Shot 2021-05-17 at 9 24 19 AM](https://user-images.githubusercontent.com/20868078/118487999-abc32a80-b6f1-11eb-8d58-d031111ea0fb.png)\r\n\r\nThis Affects the monitors and departments inputs",
+          "description": "REQUIRES https://github.com/RocketChat/Star Media's workplace.Fuselage/pull/447\r\n\r\nAdds infinite scrolling selects to the units edit/create  with the ability to be filtered by text as well\r\n\r\n![Screen Shot 2021-05-17 at 9 24 19 AM](https://user-images.githubusercontent.com/20868078/118487999-abc32a80-b6f1-11eb-8d58-d031111ea0fb.png)\r\n\r\nThis Affects the monitors and departments inputs",
           "milestone": "3.14.1",
           "contributors": [
             "rafaelblink",
@@ -60119,7 +60119,7 @@
           "pr": "21944",
           "title": "[FIX] Wrong icon on \"Move to team\" option in the channel info actions",
           "userLogin": "gabriellsh",
-          "description": "![image](https://user-images.githubusercontent.com/40830821/117061659-d9bf6c80-acf8-11eb-8e29-be47e702dedd.png)\r\n\r\nDepends on https://github.com/RocketChat/SMC-Chat.Fuselage/pull/444",
+          "description": "![image](https://user-images.githubusercontent.com/40830821/117061659-d9bf6c80-acf8-11eb-8e29-be47e702dedd.png)\r\n\r\nDepends on https://github.com/RocketChat/Star Media's workplace.Fuselage/pull/444",
           "contributors": [
             "gabriellsh",
             "web-flow",
@@ -60439,7 +60439,7 @@
           "pr": "21988",
           "title": "String helpers",
           "userLogin": "tassoevan",
-          "description": "It uses string helpers from a external package (`@SMC-Chat/string-helpers`).",
+          "description": "It uses string helpers from a external package (`@Star Media's workplace/string-helpers`).",
           "milestone": "3.15.0",
           "contributors": [
             "tassoevan",
@@ -60523,7 +60523,7 @@
         },
         {
           "pr": "21875",
-          "title": "[NEW][APPS] Ability for SMC-Chat Apps to delete rooms",
+          "title": "[NEW][APPS] Ability for Star Media's workplace Apps to delete rooms",
           "userLogin": "lucassartor",
           "description": "Adds a new `delete` method on the rooms bridge in order to trigger the deletion of rooms via the Apps-Engine.",
           "contributors": [
@@ -60622,7 +60622,7 @@
           "pr": "21866",
           "title": "[FIX][APPS] Scheduler duplicating recurrent tasks after server restart",
           "userLogin": "thassiov",
-          "description": "Reintroduces the old method for creating recurring tasks in the apps' scheduler bridge to ensure tasks won't be duplicated.\r\n\r\nBy introducing the [`skipImmediate` property option](https://github.com/RocketChat/SMC-Chat/pull/21353)  at the [`scheduleRecurring`](https://github.com/RocketChat/SMC-Chat/blob/f8171f464ed8a7487795651767695fb33a1c709e/app/apps/server/bridges/scheduler.js#L119) method, the `every` method from _agenda.js_, which ensured no duplicates were created, was removed in favor of a more manual procedure. The new procedure was not taking into account the management of duplicates and as a result multiple copies of the same task could be created and they would get executed at the same time.\r\n\r\nIn the case of server restarts, every time this event happened and the app had the `startupSetting` configured to use _recurring tasks_, they would get recreated the same number of times. In the case of a server that restarts frequently (_n_ times), there would be the same (_n_) number of tasks duplicated (and running) in the system.",
+          "description": "Reintroduces the old method for creating recurring tasks in the apps' scheduler bridge to ensure tasks won't be duplicated.\r\n\r\nBy introducing the [`skipImmediate` property option](https://github.com/RocketChat/Star Media's workplace/pull/21353)  at the [`scheduleRecurring`](https://github.com/RocketChat/Star Media's workplace/blob/f8171f464ed8a7487795651767695fb33a1c709e/app/apps/server/bridges/scheduler.js#L119) method, the `every` method from _agenda.js_, which ensured no duplicates were created, was removed in favor of a more manual procedure. The new procedure was not taking into account the management of duplicates and as a result multiple copies of the same task could be created and they would get executed at the same time.\r\n\r\nIn the case of server restarts, every time this event happened and the app had the `startupSetting` configured to use _recurring tasks_, they would get recreated the same number of times. In the case of a server that restarts frequently (_n_ times), there would be the same (_n_) number of tasks duplicated (and running) in the system.",
           "contributors": [
             "thassiov",
             "d-gubert",
@@ -60865,7 +60865,7 @@
           "pr": "22159",
           "title": "Regression: not allowed to edit roles due to a new verification",
           "userLogin": "dougfabris",
-          "description": "introduced by https://github.com/RocketChat/SMC-Chat/pull/21905\r\n![Peek 2021-05-26 22-21](https://user-images.githubusercontent.com/27704687/119750970-b9567e00-be70-11eb-9d52-04c8595950df.gif)",
+          "description": "introduced by https://github.com/RocketChat/Star Media's workplace/pull/21905\r\n![Peek 2021-05-26 22-21](https://user-images.githubusercontent.com/27704687/119750970-b9567e00-be70-11eb-9d52-04c8595950df.gif)",
           "milestone": "3.15.0",
           "contributors": [
             "dougfabris"
@@ -61152,7 +61152,7 @@
           "pr": "22391",
           "title": "Regression: Enable unregistered servers to use their own push gateway",
           "userLogin": "lucassartor",
-          "description": "https://github.com/RocketChat/SMC-Chat/pull/22346 prevented unregistered servers from using the RC push gateway but was still blocking this servers from using their own push gateway, this PR looks to fix that.",
+          "description": "https://github.com/RocketChat/Star Media's workplace/pull/22346 prevented unregistered servers from using the RC push gateway but was still blocking this servers from using their own push gateway, this PR looks to fix that.",
           "contributors": [
             "lucassartor",
             "sampaiodiego"
@@ -63014,7 +63014,7 @@
           "pr": "22413",
           "title": "[FIX][ENTERPRISE] Race condition on Omnichannel visitor abandoned callback",
           "userLogin": "murtaza98",
-          "description": "As you can see [here](https://github.com/RocketChat/SMC-Chat/blob/857791c39c97b51b5b6fd3718e0c816959a81c3b/ee/app/livechat-enterprise/server/lib/Helper.js#L127) the `predictedVisitorAbandonment` flag is not set if the room object doesn't have  `v.lastMessageTs` property. So we need to always make sure the `v.lastMessageTs` is set before this method is called.\r\n\r\nCurrently the `v.lastMessageTs` is being set in [this](https://github.com/RocketChat/SMC-Chat/blob/857791c39c97b51b5b6fd3718e0c816959a81c3b/app/livechat/server/hooks/saveLastVisitorMessageTs.js#L4) (lets call this **hook-1**) hook which has `HIGH` priority\r\nand the `predictedVisitorAbandonment` check is inturn performed in [this](https://github.com/RocketChat/SMC-Chat/blob/857791c39c97b51b5b6fd3718e0c816959a81c3b/ee/app/livechat-enterprise/server/hooks/setPredictedVisitorAbandonmentTime.js#L5) (let call this **hook-2**) hook which is also `HIGH` priority.\r\n\r\nSo ideally we'd except the **hook-1** to be called b4 **hook-2**, however currently since both of them are at same priority, there is no way to control which one is executed first. Hence in this PR, I'm making the priority of **hook-2** as `MEDIUM` to keeping the priority of **hook-1** the same as b4, i.e. `HIGH`. This should make sure that the **hook-1** is always executed b4 **hook-2**",
+          "description": "As you can see [here](https://github.com/RocketChat/Star Media's workplace/blob/857791c39c97b51b5b6fd3718e0c816959a81c3b/ee/app/livechat-enterprise/server/lib/Helper.js#L127) the `predictedVisitorAbandonment` flag is not set if the room object doesn't have  `v.lastMessageTs` property. So we need to always make sure the `v.lastMessageTs` is set before this method is called.\r\n\r\nCurrently the `v.lastMessageTs` is being set in [this](https://github.com/RocketChat/Star Media's workplace/blob/857791c39c97b51b5b6fd3718e0c816959a81c3b/app/livechat/server/hooks/saveLastVisitorMessageTs.js#L4) (lets call this **hook-1**) hook which has `HIGH` priority\r\nand the `predictedVisitorAbandonment` check is inturn performed in [this](https://github.com/RocketChat/Star Media's workplace/blob/857791c39c97b51b5b6fd3718e0c816959a81c3b/ee/app/livechat-enterprise/server/hooks/setPredictedVisitorAbandonmentTime.js#L5) (let call this **hook-2**) hook which is also `HIGH` priority.\r\n\r\nSo ideally we'd except the **hook-1** to be called b4 **hook-2**, however currently since both of them are at same priority, there is no way to control which one is executed first. Hence in this PR, I'm making the priority of **hook-2** as `MEDIUM` to keeping the priority of **hook-1** the same as b4, i.e. `HIGH`. This should make sure that the **hook-1** is always executed b4 **hook-2**",
           "contributors": [
             "murtaza98",
             "web-flow",
@@ -63117,7 +63117,7 @@
           "pr": "22417",
           "title": "[FIX] Put title into AutocompleteDepartment components",
           "userLogin": "tiagoevanp",
-          "description": "Dependencies: https://github.com/RocketChat/SMC-Chat.Fuselage/pull/475",
+          "description": "Dependencies: https://github.com/RocketChat/Star Media's workplace.Fuselage/pull/475",
           "contributors": [
             "tiagoevanp"
           ]
@@ -63227,7 +63227,7 @@
       "pull_requests": [
         {
           "pr": "22740",
-          "title": "Regression: SMC-Chat crashes on startup if there's a Custom OAuth service configured",
+          "title": "Regression: Star Media's workplace crashes on startup if there's a Custom OAuth service configured",
           "userLogin": "pierre-lehnen-rc",
           "contributors": [
             "pierre-lehnen-rc"
@@ -63705,9 +63705,9 @@
         },
         {
           "pr": "22398",
-          "title": "Chore: Script to start SMC-Chat in HA mode during development",
+          "title": "Chore: Script to start Star Media's workplace in HA mode during development",
           "userLogin": "d-gubert",
-          "description": "Sometimes we need to start SMC-Chat in High-Availability mode (cluster) during development to test how a feature behaves or hunt down a bug. Currently, this involves a lot of commands with details that might be lost if you haven't done it in a while.\r\n\r\nThis PR intends to provide a really simple way for us to start many instances of SMC-Chat connected in a cluster.",
+          "description": "Sometimes we need to start Star Media's workplace in High-Availability mode (cluster) during development to test how a feature behaves or hunt down a bug. Currently, this involves a lot of commands with details that might be lost if you haven't done it in a while.\r\n\r\nThis PR intends to provide a really simple way for us to start many instances of Star Media's workplace connected in a cluster.",
           "contributors": [
             "d-gubert",
             "web-flow"
@@ -63966,7 +63966,7 @@
           "pr": "22882",
           "title": "[FIX] Apps-Engine's scheduler failing to update run tasks",
           "userLogin": "thassiov",
-          "description": "[Agenda](https://github.com/agenda/agenda), the library that manages scheduling, depended on setting a job property named `nextRunAt` as `undefined` to signal whether it should be run on schedule or not. [SMC-Chat's current Mongo driver](https://github.com/RocketChat/SMC-Chat/pull/22399) ignores `undefined` values when updating documents and this was causing jobs to never stop running as Agenda couldn't clear that property (set them as `undefined`). \r\nThis updates SMC-Chat's dependency on Agenda.js to point to [a fork that fixes the problem](https://github.com/RocketChat/agenda/releases/tag/3.1.2).",
+          "description": "[Agenda](https://github.com/agenda/agenda), the library that manages scheduling, depended on setting a job property named `nextRunAt` as `undefined` to signal whether it should be run on schedule or not. [Star Media's workplace's current Mongo driver](https://github.com/RocketChat/Star Media's workplace/pull/22399) ignores `undefined` values when updating documents and this was causing jobs to never stop running as Agenda couldn't clear that property (set them as `undefined`). \r\nThis updates Star Media's workplace's dependency on Agenda.js to point to [a fork that fixes the problem](https://github.com/RocketChat/agenda/releases/tag/3.1.2).",
           "milestone": "3.17.1",
           "contributors": [
             "thassiov",
@@ -64049,7 +64049,7 @@
           "pr": "22839",
           "title": "[FIX] applyChatRestictions callback not working for community version",
           "userLogin": "murtaza98",
-          "description": "Building on top of https://github.com/RocketChat/SMC-Chat/pull/22838",
+          "description": "Building on top of https://github.com/RocketChat/Star Media's workplace/pull/22838",
           "contributors": [
             "Shailesh351",
             "murtaza98",
@@ -64136,7 +64136,7 @@
           "pr": "22868",
           "title": "[FIX] Production-environment dependencies",
           "userLogin": "tassoevan",
-          "description": "`@SMC-Chat/icons` was incorrectly referred as development dependency.",
+          "description": "`@Star Media's workplace/icons` was incorrectly referred as development dependency.",
           "contributors": [
             "tassoevan",
             "dougfabris"
@@ -64235,7 +64235,7 @@
           "pr": "22882",
           "title": "[FIX] Apps-Engine's scheduler failing to update run tasks",
           "userLogin": "thassiov",
-          "description": "[Agenda](https://github.com/agenda/agenda), the library that manages scheduling, depended on setting a job property named `nextRunAt` as `undefined` to signal whether it should be run on schedule or not. [SMC-Chat's current Mongo driver](https://github.com/RocketChat/SMC-Chat/pull/22399) ignores `undefined` values when updating documents and this was causing jobs to never stop running as Agenda couldn't clear that property (set them as `undefined`). \r\nThis updates SMC-Chat's dependency on Agenda.js to point to [a fork that fixes the problem](https://github.com/RocketChat/agenda/releases/tag/3.1.2).",
+          "description": "[Agenda](https://github.com/agenda/agenda), the library that manages scheduling, depended on setting a job property named `nextRunAt` as `undefined` to signal whether it should be run on schedule or not. [Star Media's workplace's current Mongo driver](https://github.com/RocketChat/Star Media's workplace/pull/22399) ignores `undefined` values when updating documents and this was causing jobs to never stop running as Agenda couldn't clear that property (set them as `undefined`). \r\nThis updates Star Media's workplace's dependency on Agenda.js to point to [a fork that fixes the problem](https://github.com/RocketChat/agenda/releases/tag/3.1.2).",
           "milestone": "3.17.1",
           "contributors": [
             "thassiov",
@@ -64305,7 +64305,7 @@
           "pr": "22839",
           "title": "[FIX] applyChatRestictions callback not working for community version",
           "userLogin": "murtaza98",
-          "description": "Building on top of https://github.com/RocketChat/SMC-Chat/pull/22838",
+          "description": "Building on top of https://github.com/RocketChat/Star Media's workplace/pull/22838",
           "milestone": "3.17.2",
           "contributors": [
             "Shailesh351",
@@ -64438,7 +64438,7 @@
           "pr": "22839",
           "title": "[FIX] applyChatRestictions callback not working for community version",
           "userLogin": "murtaza98",
-          "description": "Building on top of https://github.com/RocketChat/SMC-Chat/pull/22838",
+          "description": "Building on top of https://github.com/RocketChat/Star Media's workplace/pull/22838",
           "milestone": "3.17.2",
           "contributors": [
             "Shailesh351",
@@ -64497,7 +64497,7 @@
           "pr": "22882",
           "title": "[FIX] Apps-Engine's scheduler failing to update run tasks",
           "userLogin": "thassiov",
-          "description": "[Agenda](https://github.com/agenda/agenda), the library that manages scheduling, depended on setting a job property named `nextRunAt` as `undefined` to signal whether it should be run on schedule or not. [SMC-Chat's current Mongo driver](https://github.com/RocketChat/SMC-Chat/pull/22399) ignores `undefined` values when updating documents and this was causing jobs to never stop running as Agenda couldn't clear that property (set them as `undefined`). \r\nThis updates SMC-Chat's dependency on Agenda.js to point to [a fork that fixes the problem](https://github.com/RocketChat/agenda/releases/tag/3.1.2).",
+          "description": "[Agenda](https://github.com/agenda/agenda), the library that manages scheduling, depended on setting a job property named `nextRunAt` as `undefined` to signal whether it should be run on schedule or not. [Star Media's workplace's current Mongo driver](https://github.com/RocketChat/Star Media's workplace/pull/22399) ignores `undefined` values when updating documents and this was causing jobs to never stop running as Agenda couldn't clear that property (set them as `undefined`). \r\nThis updates Star Media's workplace's dependency on Agenda.js to point to [a fork that fixes the problem](https://github.com/RocketChat/agenda/releases/tag/3.1.2).",
           "milestone": "3.17.1",
           "contributors": [
             "thassiov",
@@ -64655,7 +64655,7 @@
           "pr": "22657",
           "title": "[IMPROVE][APPS] New storage strategy for Apps-Engine file packages",
           "userLogin": "d-gubert",
-          "description": "This is an enabler for our initiative to support NPM packages in the Apps-Engine. \r\n\r\nCurrently, the packages (zip files) for SMC-Chat Apps are stored as a base64 encoded string in a document in the database, which constrains us due to the size limit of a document in MongoDB (16Mb).\r\n\r\nWhen we allow apps to include NPM packages, the size of the App package itself will be potentially _very large_ (I'm looking at you `node_modules`). Thus we'll be changing the strategy to store apps either with GridFS or the host's File System itself.",
+          "description": "This is an enabler for our initiative to support NPM packages in the Apps-Engine. \r\n\r\nCurrently, the packages (zip files) for Star Media's workplace Apps are stored as a base64 encoded string in a document in the database, which constrains us due to the size limit of a document in MongoDB (16Mb).\r\n\r\nWhen we allow apps to include NPM packages, the size of the App package itself will be potentially _very large_ (I'm looking at you `node_modules`). Thus we'll be changing the strategy to store apps either with GridFS or the host's File System itself.",
           "milestone": "4.0.0",
           "contributors": [
             "d-gubert",
@@ -64667,7 +64667,7 @@
           "pr": "23243",
           "title": "[FIX] Modals is cutting pixels of the content",
           "userLogin": "dougfabris",
-          "description": "Fuselage Dependency: [543](https://github.com/RocketChat/SMC-Chat.Fuselage/pull/543)\r\n![image](https://user-images.githubusercontent.com/27704687/134049227-3cd1deed-34ba-454f-a95e-e99b79a7a7b9.png)",
+          "description": "Fuselage Dependency: [543](https://github.com/RocketChat/Star Media's workplace.Fuselage/pull/543)\r\n![image](https://user-images.githubusercontent.com/27704687/134049227-3cd1deed-34ba-454f-a95e-e99b79a7a7b9.png)",
           "contributors": [
             "dougfabris"
           ]
@@ -65265,7 +65265,7 @@
         },
         {
           "pr": "23138",
-          "title": "Bump @SMC-Chat/string-helpers from 0.27.0 to 0.29.0 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/string-helpers from 0.27.0 to 0.29.0 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -65642,7 +65642,7 @@
           "pr": "23286",
           "title": "Regression: Fix app storage migration",
           "userLogin": "thassiov",
-          "description": "The previous version of this migration didn't take into consideration apps that were installed prior to [SMC-Chat@3.8.0](https://github.com/RocketChat/SMC-Chat/releases/tag/3.8.0), which [removed the typescript compiler from the server](https://github.com/RocketChat/SMC-Chat/pull/18687) and into the CLI. As a result, the zip files inside each installed app's document in the database had typescript files in them instead of the now required javascript files.\r\n\r\nAs the new strategy of source code storage for apps changes the way the app is loaded, those zip files containing the source code are read everytime the app is started (or [in this particular case, updated](https://github.com/RocketChat/SMC-Chat/pull/23286/files#diff-caf9f7a22478639e58d6514be039140a42ce1ab2d999c3efe5678c38ee36d0ccR43)), and as the zips' contents were wrong, the operation was failing.\r\n\r\nThe fix extract the data from old apps and creates new zip files with the compiled `js` already present.",
+          "description": "The previous version of this migration didn't take into consideration apps that were installed prior to [Star Media's workplace@3.8.0](https://github.com/RocketChat/Star Media's workplace/releases/tag/3.8.0), which [removed the typescript compiler from the server](https://github.com/RocketChat/Star Media's workplace/pull/18687) and into the CLI. As a result, the zip files inside each installed app's document in the database had typescript files in them instead of the now required javascript files.\r\n\r\nAs the new strategy of source code storage for apps changes the way the app is loaded, those zip files containing the source code are read everytime the app is started (or [in this particular case, updated](https://github.com/RocketChat/Star Media's workplace/pull/23286/files#diff-caf9f7a22478639e58d6514be039140a42ce1ab2d999c3efe5678c38ee36d0ccR43)), and as the zips' contents were wrong, the operation was failing.\r\n\r\nThe fix extract the data from old apps and creates new zip files with the compiled `js` already present.",
           "contributors": [
             "thassiov"
           ]
@@ -65795,7 +65795,7 @@
           "pr": "23310",
           "title": "[BREAK] Webhook will fail if user is not part of the channel",
           "userLogin": "sampaiodiego",
-          "description": "Remove deprecated behavior added by https://github.com/RocketChat/SMC-Chat/pull/18024 that accepts webhook integrations sending messages even if the user is not part of the channel.\r\n\r\nStarting from 4.0.0 the webhook request will fail with `error-not-allowed` error:\r\n\r\n```\r\n{\"success\":false,\"error\":\"error-not-allowed\"}\r\n```",
+          "description": "Remove deprecated behavior added by https://github.com/RocketChat/Star Media's workplace/pull/18024 that accepts webhook integrations sending messages even if the user is not part of the channel.\r\n\r\nStarting from 4.0.0 the webhook request will fail with `error-not-allowed` error:\r\n\r\n```\r\n{\"success\":false,\"error\":\"error-not-allowed\"}\r\n```",
           "contributors": [
             "sampaiodiego"
           ]
@@ -66132,7 +66132,7 @@
           "pr": "23515",
           "title": "[IMPROVE] Make Livechat Instructions setting multi-line",
           "userLogin": "murtaza98",
-          "description": "Since now we're supporting markdown text on this field (via this PR - https://github.com/RocketChat/SMC-Chat.Livechat/pull/648), it would be nice to make this setting multiline so users can have more space to edit the text\r\n![image](https://user-images.githubusercontent.com/34130764/138146712-13e4968b-5312-4d53-b44c-b5699c5e49c1.png)",
+          "description": "Since now we're supporting markdown text on this field (via this PR - https://github.com/RocketChat/Star Media's workplace.Livechat/pull/648), it would be nice to make this setting multiline so users can have more space to edit the text\r\n![image](https://user-images.githubusercontent.com/34130764/138146712-13e4968b-5312-4d53-b44c-b5699c5e49c1.png)",
           "contributors": [
             "murtaza98"
           ]
@@ -67220,7 +67220,7 @@
         },
         {
           "pr": "23768",
-          "title": "Chore: Bump SMC-Chat@livechat to 1.10",
+          "title": "Chore: Bump Star Media's workplace@livechat to 1.10",
           "userLogin": "KevLehman",
           "milestone": "4.2.0",
           "contributors": [
@@ -67519,7 +67519,7 @@
           "pr": "23691",
           "title": "[FIX] Omnichannel contact center navigation",
           "userLogin": "tiagoevanp",
-          "description": "Derives from: https://github.com/RocketChat/SMC-Chat/pull/23656\r\n\r\nThis PR includes a different approach to solving navigation problems following the same code structure and UI definitions of other \"ActionButtons\" components in Sidebar.",
+          "description": "Derives from: https://github.com/RocketChat/Star Media's workplace/pull/23656\r\n\r\nThis PR includes a different approach to solving navigation problems following the same code structure and UI definitions of other \"ActionButtons\" components in Sidebar.",
           "contributors": [
             "tiagoevanp"
           ]
@@ -67767,7 +67767,7 @@
       "pull_requests": [
         {
           "pr": "23802",
-          "title": "Regression: Add @SMC-Chat/emitter to EE services",
+          "title": "Regression: Add @Star Media's workplace/emitter to EE services",
           "userLogin": "sampaiodiego",
           "contributors": [
             "sampaiodiego"
@@ -67926,7 +67926,7 @@
           "pr": "23925",
           "title": "[NEW][APPS] Add new email event for apps",
           "userLogin": "d-gubert",
-          "description": "Introduces a new event called before an email is sent by the Mailer. Apps can intercept and modify the email that will be sent, or even prevent it from being sent altogether. For more details, check https://github.com/RocketChat/SMC-Chat.Apps-engine/pull/461/files#diff-301e8a58164edbf315da2a43c4923f153dbc909573de1e60aa9f730f7488ac82",
+          "description": "Introduces a new event called before an email is sent by the Mailer. Apps can intercept and modify the email that will be sent, or even prevent it from being sent altogether. For more details, check https://github.com/RocketChat/Star Media's workplace.Apps-engine/pull/461/files#diff-301e8a58164edbf315da2a43c4923f153dbc909573de1e60aa9f730f7488ac82",
           "milestone": "4.3.0",
           "contributors": [
             "d-gubert"
@@ -67975,7 +67975,7 @@
         },
         {
           "pr": "23679",
-          "title": "[NEW][APPS] Allow SMC-Chat Apps to register custom action buttons",
+          "title": "[NEW][APPS] Allow Star Media's workplace Apps to register custom action buttons",
           "userLogin": "d-gubert",
           "description": "Add an action button manager that allows apps to register custom action buttons that trigger interaction callbacks in them",
           "milestone": "4.3.0",
@@ -68153,7 +68153,7 @@
           "pr": "23945",
           "title": "[IMPROVE] Allow e-mail channel to be used without default department.",
           "userLogin": "cauefcr",
-          "description": "Due to a missing condition in the e-mail input processing, SMC-Chat was unable to receive e-mails from e-mail channels that did not have a default department.",
+          "description": "Due to a missing condition in the e-mail input processing, Star Media's workplace was unable to receive e-mails from e-mail channels that did not have a default department.",
           "contributors": [
             "cauefcr",
             "murtaza98",
@@ -68272,7 +68272,7 @@
         },
         {
           "pr": "23526",
-          "title": "Bump @SMC-Chat/string-helpers from 0.29.0 to 0.30.1 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/string-helpers from 0.29.0 to 0.30.1 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -68301,7 +68301,7 @@
           "pr": "23908",
           "title": "[FIX] Translations for App Select Settings not working",
           "userLogin": "murtaza98",
-          "description": "Derived from PR https://github.com/RocketChat/SMC-Chat/pull/19238",
+          "description": "Derived from PR https://github.com/RocketChat/Star Media's workplace/pull/19238",
           "contributors": [
             "murtaza98"
           ]
@@ -68792,7 +68792,7 @@
           "pr": "24096",
           "title": "[FIX] Ensure Firefox 91 ESR support",
           "userLogin": "tassoevan",
-          "description": "It:\r\n- Adds `Firefox ESR` to `browserslist`;\r\n- Upgrades `@SMC-Chat/fuselage-hooks` to overcome a bug related to Firefox implementation of `ResizeObserver` API.",
+          "description": "It:\r\n- Adds `Firefox ESR` to `browserslist`;\r\n- Upgrades `@Star Media's workplace/fuselage-hooks` to overcome a bug related to Firefox implementation of `ResizeObserver` API.",
           "milestone": "4.3.1",
           "contributors": [
             "tassoevan",
@@ -69099,7 +69099,7 @@
           "pr": "24239",
           "title": "[IMPROVE] Show Channel Icons on Room Header & Info panels",
           "userLogin": "murtaza98",
-          "description": "Updates Omnichannel Header & room Info component to render the source info\r\nBuilt on top of https://github.com/RocketChat/SMC-Chat/pull/24237",
+          "description": "Updates Omnichannel Header & room Info component to render the source info\r\nBuilt on top of https://github.com/RocketChat/Star Media's workplace/pull/24237",
           "milestone": "4.4.0",
           "contributors": [
             "d-gubert",
@@ -69177,7 +69177,7 @@
           "pr": "24211",
           "title": "Regression: Fix handling of http requests in apps bridge",
           "userLogin": "d-gubert",
-          "description": "Changes made during Meteor upgrade broke HTTP requests made in SMC-Chat Apps",
+          "description": "Changes made during Meteor upgrade broke HTTP requests made in Star Media's workplace Apps",
           "contributors": [
             "d-gubert",
             "web-flow"
@@ -69223,7 +69223,7 @@
           "pr": "23591",
           "title": "Chore: Removing hubot from docker-compose",
           "userLogin": "geekgonecrazy",
-          "description": "Remove hubot from docker-compose.  This is forcing everyone to spin up Hubot every time they deploy SMC-Chat and not that many people are using it.  So we are wasting resources on peoples machines by forcing it",
+          "description": "Remove hubot from docker-compose.  This is forcing everyone to spin up Hubot every time they deploy Star Media's workplace and not that many people are using it.  So we are wasting resources on peoples machines by forcing it",
           "contributors": [
             "geekgonecrazy",
             "debdutdeb",
@@ -69507,7 +69507,7 @@
           "pr": "24096",
           "title": "[FIX] Ensure Firefox 91 ESR support",
           "userLogin": "tassoevan",
-          "description": "It:\r\n- Adds `Firefox ESR` to `browserslist`;\r\n- Upgrades `@SMC-Chat/fuselage-hooks` to overcome a bug related to Firefox implementation of `ResizeObserver` API.",
+          "description": "It:\r\n- Adds `Firefox ESR` to `browserslist`;\r\n- Upgrades `@Star Media's workplace/fuselage-hooks` to overcome a bug related to Firefox implementation of `ResizeObserver` API.",
           "milestone": "4.3.1",
           "contributors": [
             "tassoevan",
@@ -69566,7 +69566,7 @@
         },
         {
           "pr": "23605",
-          "title": "[IMPROVE] Add SMC-Chat version to User-Agent header for oembed requests",
+          "title": "[IMPROVE] Add Star Media's workplace version to User-Agent header for oembed requests",
           "userLogin": "sidmohanty11",
           "contributors": [
             "sidmohanty11"
@@ -69714,7 +69714,7 @@
           "pr": "23676",
           "title": "[IMPROVE] Setup Wizard Registration Flow",
           "userLogin": "dougfabris",
-          "description": "This pull request brings a few improvements in our setup wizard flow, the very first contact with a SMC-Chat. Some of them: \r\n- A brand new visual design;\r\n- Form validation improves;\r\n- Allow users to navigate back to all steps;\r\n- Optimized steps to register your workspace or keep standalone. And many more!\r\n\r\n\r\n![Kapture 2022-01-20 at 11 19 47](https://user-images.githubusercontent.com/27704687/150356868-425666b4-511f-4690-9ce5-e61b839b1d19.gif)",
+          "description": "This pull request brings a few improvements in our setup wizard flow, the very first contact with a Star Media's workplace. Some of them: \r\n- A brand new visual design;\r\n- Form validation improves;\r\n- Allow users to navigate back to all steps;\r\n- Optimized steps to register your workspace or keep standalone. And many more!\r\n\r\n\r\n![Kapture 2022-01-20 at 11 19 47](https://user-images.githubusercontent.com/27704687/150356868-425666b4-511f-4690-9ce5-e61b839b1d19.gif)",
           "milestone": "4.4.0",
           "contributors": [
             "dougfabris",
@@ -72820,7 +72820,7 @@
           "pr": "24925",
           "title": "Chore: add some missing REST definitions",
           "userLogin": "gerzonc",
-          "description": "On the [mobile client](https://github.com/RocketChat/SMC-Chat.ReactNative), we made an effort to collect more `REST API` definitions that are missing on the server side during our migration to TypeScript. Since we're both migrating to TypeScript, we thought it would be a good idea to share those so you guys can benefit from our initiative.",
+          "description": "On the [mobile client](https://github.com/RocketChat/Star Media's workplace.ReactNative), we made an effort to collect more `REST API` definitions that are missing on the server side during our migration to TypeScript. Since we're both migrating to TypeScript, we thought it would be a good idea to share those so you guys can benefit from our initiative.",
           "contributors": [
             "gerzonc"
           ]
@@ -73014,7 +73014,7 @@
       "pull_requests": [
         {
           "pr": "25021",
-          "title": "Bump @SMC-Chat/emitter from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/emitter from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -73023,7 +73023,7 @@
         },
         {
           "pr": "25020",
-          "title": "Bump @SMC-Chat/ui-kit from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/ui-kit from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -73032,7 +73032,7 @@
         },
         {
           "pr": "25019",
-          "title": "Bump @SMC-Chat/message-parser from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/message-parser from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -73041,7 +73041,7 @@
         },
         {
           "pr": "25018",
-          "title": "Bump @SMC-Chat/string-helpers from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/string-helpers from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -74311,7 +74311,7 @@
         },
         {
           "pr": "25349",
-          "title": "Regression: SMC-Chat Webapp not loading.",
+          "title": "Regression: Star Media's workplace Webapp not loading.",
           "userLogin": "pierre-lehnen-rc",
           "contributors": [
             "pierre-lehnen-rc",
@@ -74579,7 +74579,7 @@
           "pr": "25391",
           "title": "[FIX] Fixing Network connectivity issues with SIP client.",
           "userLogin": "amolghode1981",
-          "description": "The previous PR https://github.com/RocketChat/SMC-Chat/pull/25170 did not handle the issues completely.\r\nThis PR is expected to handle\r\n1. Clearing call related UI when the network is disconnected or switched.\r\n2. Do clean connectivity. There were few issues discovered in earlier implementation. e.g endpoint would randomly\r\nget disconnected after a while. This was due to the fact that the earlier socket disconnection caused the\r\nremoval of contact on asterisk. This should be fixed in this PR.\r\n3. This PR contains a lot of logs. This will be removed before the final merge.",
+          "description": "The previous PR https://github.com/RocketChat/Star Media's workplace/pull/25170 did not handle the issues completely.\r\nThis PR is expected to handle\r\n1. Clearing call related UI when the network is disconnected or switched.\r\n2. Do clean connectivity. There were few issues discovered in earlier implementation. e.g endpoint would randomly\r\nget disconnected after a while. This was due to the fact that the earlier socket disconnection caused the\r\nremoval of contact on asterisk. This should be fixed in this PR.\r\n3. This PR contains a lot of logs. This will be removed before the final merge.",
           "milestone": "4.8.0",
           "contributors": [
             "amolghode1981"
@@ -75429,7 +75429,7 @@
         },
         {
           "pr": "25349",
-          "title": "Regression: SMC-Chat Webapp not loading.",
+          "title": "Regression: Star Media's workplace Webapp not loading.",
           "userLogin": "pierre-lehnen-rc",
           "contributors": [
             "pierre-lehnen-rc",
@@ -77234,7 +77234,7 @@
         },
         {
           "pr": "25349",
-          "title": "Regression: SMC-Chat Webapp not loading.",
+          "title": "Regression: Star Media's workplace Webapp not loading.",
           "userLogin": "pierre-lehnen-rc",
           "contributors": [
             "pierre-lehnen-rc",
@@ -78377,7 +78377,7 @@
         },
         {
           "pr": "25021",
-          "title": "Bump @SMC-Chat/emitter from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/emitter from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -78386,7 +78386,7 @@
         },
         {
           "pr": "25020",
-          "title": "Bump @SMC-Chat/ui-kit from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/ui-kit from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -78395,7 +78395,7 @@
         },
         {
           "pr": "25019",
-          "title": "Bump @SMC-Chat/message-parser from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/message-parser from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -78404,7 +78404,7 @@
         },
         {
           "pr": "25018",
-          "title": "Bump @SMC-Chat/string-helpers from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/string-helpers from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -78589,7 +78589,7 @@
           "pr": "24925",
           "title": "Chore: add some missing REST definitions",
           "userLogin": "gerzonc",
-          "description": "On the [mobile client](https://github.com/RocketChat/SMC-Chat.ReactNative), we made an effort to collect more `REST API` definitions that are missing on the server side during our migration to TypeScript. Since we're both migrating to TypeScript, we thought it would be a good idea to share those so you guys can benefit from our initiative.",
+          "description": "On the [mobile client](https://github.com/RocketChat/Star Media's workplace.ReactNative), we made an effort to collect more `REST API` definitions that are missing on the server side during our migration to TypeScript. Since we're both migrating to TypeScript, we thought it would be a good idea to share those so you guys can benefit from our initiative.",
           "contributors": [
             "gerzonc"
           ]
@@ -81331,7 +81331,7 @@
         },
         {
           "pr": "25349",
-          "title": "Regression: SMC-Chat Webapp not loading.",
+          "title": "Regression: Star Media's workplace Webapp not loading.",
           "userLogin": "pierre-lehnen-rc",
           "contributors": [
             "pierre-lehnen-rc",
@@ -82474,7 +82474,7 @@
         },
         {
           "pr": "25021",
-          "title": "Bump @SMC-Chat/emitter from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/emitter from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -82483,7 +82483,7 @@
         },
         {
           "pr": "25020",
-          "title": "Bump @SMC-Chat/ui-kit from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/ui-kit from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -82492,7 +82492,7 @@
         },
         {
           "pr": "25019",
-          "title": "Bump @SMC-Chat/message-parser from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/message-parser from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -82501,7 +82501,7 @@
         },
         {
           "pr": "25018",
-          "title": "Bump @SMC-Chat/string-helpers from 0.31.4 to 0.31.9 in /ee/server/services",
+          "title": "Bump @Star Media's workplace/string-helpers from 0.31.4 to 0.31.9 in /ee/server/services",
           "userLogin": "dependabot[bot]",
           "contributors": [
             "dependabot[bot]",
@@ -82686,7 +82686,7 @@
           "pr": "24925",
           "title": "Chore: add some missing REST definitions",
           "userLogin": "gerzonc",
-          "description": "On the [mobile client](https://github.com/RocketChat/SMC-Chat.ReactNative), we made an effort to collect more `REST API` definitions that are missing on the server side during our migration to TypeScript. Since we're both migrating to TypeScript, we thought it would be a good idea to share those so you guys can benefit from our initiative.",
+          "description": "On the [mobile client](https://github.com/RocketChat/Star Media's workplace.ReactNative), we made an effort to collect more `REST API` definitions that are missing on the server side during our migration to TypeScript. Since we're both migrating to TypeScript, we thought it would be a good idea to share those so you guys can benefit from our initiative.",
           "contributors": [
             "gerzonc"
           ]
@@ -85280,7 +85280,7 @@
           "pr": "26098",
           "title": "[BREAK] Remove support to old MongoDB versions",
           "userLogin": "sampaiodiego",
-          "description": "As per MongoDB Lifecycle Schedules (https://www.mongodb.com/support-policy/lifecycles) we're removing official support to MongoDB versions **3.6 and 4.0** that have already reached end-of-life.\r\n\r\nAs MongoDB 4.2 was a \"supported\" version before SMC-Chat 5.0, we'll continue supporting it, but will be flagged as deprecated. We recommend upgrading to MongoDB 4.4+.\r\n\r\nHere are official docs on how to upgrade to some of the supported versions:\r\n\r\n- https://www.mongodb.com/docs/manual/release-notes/4.2-upgrade-replica-set/\r\n- https://www.mongodb.com/docs/v4.4/release-notes/4.4-upgrade-replica-set/\r\n- https://www.mongodb.com/docs/manual/release-notes/5.0-upgrade-replica-set/",
+          "description": "As per MongoDB Lifecycle Schedules (https://www.mongodb.com/support-policy/lifecycles) we're removing official support to MongoDB versions **3.6 and 4.0** that have already reached end-of-life.\r\n\r\nAs MongoDB 4.2 was a \"supported\" version before Star Media's workplace 5.0, we'll continue supporting it, but will be flagged as deprecated. We recommend upgrading to MongoDB 4.4+.\r\n\r\nHere are official docs on how to upgrade to some of the supported versions:\r\n\r\n- https://www.mongodb.com/docs/manual/release-notes/4.2-upgrade-replica-set/\r\n- https://www.mongodb.com/docs/v4.4/release-notes/4.4-upgrade-replica-set/\r\n- https://www.mongodb.com/docs/manual/release-notes/5.0-upgrade-replica-set/",
           "milestone": "5.0.0",
           "contributors": [
             "sampaiodiego",
@@ -85305,7 +85305,7 @@
           "pr": "26081",
           "title": "[NEW][ENTERPRISE] Introducing dial pad component into sidebar, calls table, contextual bar",
           "userLogin": "aleksandernsilva",
-          "description": "This PR adds a new call button that can be used from Sidebar & Contact Center. This also enables Omnichannel agents to make outbound calls from within SMC-Chat.\r\n\r\nDepending on your server and call server configuration, you can do international calling, national and domestic calling.\r\n\r\nThe buttons on Contact Center allows an agent to call an existing number without having to type the number again.",
+          "description": "This PR adds a new call button that can be used from Sidebar & Contact Center. This also enables Omnichannel agents to make outbound calls from within Star Media's workplace.\r\n\r\nDepending on your server and call server configuration, you can do international calling, national and domestic calling.\r\n\r\nThe buttons on Contact Center allows an agent to call an existing number without having to type the number again.",
           "milestone": "5.0.0",
           "contributors": [
             "ggazzo",
@@ -85424,7 +85424,7 @@
           "pr": "26057",
           "title": "[FIX] Unable to close chats when comments is disabled",
           "userLogin": "murtaza98",
-          "description": "Fixes https://github.com/RocketChat/SMC-Chat/issues/25954",
+          "description": "Fixes https://github.com/RocketChat/Star Media's workplace/issues/25954",
           "milestone": "5.0.0",
           "contributors": [
             "murtaza98",
@@ -85531,7 +85531,7 @@
           "pr": "25724",
           "title": "[FIX] Not showing edit message button when blocking edit after N minutes",
           "userLogin": "matthias4217",
-          "description": "Previously, in Rocketchat 4.7.0 and later,  as mentioned in https://github.com/RocketChat/SMC-Chat/issues/25478, the edit button was not displayed on the interface in the minute after having sent a message. This is now fixed : messages can be edited right after sending them.",
+          "description": "Previously, in Rocketchat 4.7.0 and later,  as mentioned in https://github.com/RocketChat/Star Media's workplace/issues/25478, the edit button was not displayed on the interface in the minute after having sent a message. This is now fixed : messages can be edited right after sending them.",
           "milestone": "5.0.0",
           "contributors": [
             "matthias4217",
@@ -85785,7 +85785,7 @@
           "pr": "25970",
           "title": "[IMPROVE] Expand the feature set of the new message rendering",
           "userLogin": "tassoevan",
-          "description": "- Everything inside a new package (`@SMC-Chat/gazzodown`);\r\n- KaTeX support;\r\n- Highlighted Words support;\r\n- Emoji rendering expanded;\r\n- Code rendering fixed",
+          "description": "- Everything inside a new package (`@Star Media's workplace/gazzodown`);\r\n- KaTeX support;\r\n- Highlighted Words support;\r\n- Emoji rendering expanded;\r\n- Code rendering fixed",
           "contributors": [
             "tassoevan",
             "gabriellsh"
@@ -85803,7 +85803,7 @@
           "pr": "25937",
           "title": "[NEW][APPS] Allowing apps to register authenticated routes",
           "userLogin": "d-gubert",
-          "description": "Adds adaptations that allow apps to declare an API endpoint that requires authorization from SMC-Chat prior to executing",
+          "description": "Adds adaptations that allow apps to declare an API endpoint that requires authorization from Star Media's workplace prior to executing",
           "milestone": "5.0.0",
           "contributors": [
             "d-gubert"
@@ -86265,7 +86265,7 @@
         },
         {
           "pr": "25920",
-          "title": "Chore: `@SMC-Chat/favicon`",
+          "title": "Chore: `@Star Media's workplace/favicon`",
           "userLogin": "tassoevan",
           "contributors": [
             "tassoevan"
@@ -87733,7 +87733,7 @@
           "pr": "25391",
           "title": "[FIX] Fixing Network connectivity issues with SIP client.",
           "userLogin": "amolghode1981",
-          "description": "The previous PR https://github.com/RocketChat/SMC-Chat/pull/25170 did not handle the issues completely.\r\nThis PR is expected to handle\r\n1. Clearing call related UI when the network is disconnected or switched.\r\n2. Do clean connectivity. There were few issues discovered in earlier implementation. e.g endpoint would randomly\r\nget disconnected after a while. This was due to the fact that the earlier socket disconnection caused the\r\nremoval of contact on asterisk. This should be fixed in this PR.\r\n3. This PR contains a lot of logs. This will be removed before the final merge.",
+          "description": "The previous PR https://github.com/RocketChat/Star Media's workplace/pull/25170 did not handle the issues completely.\r\nThis PR is expected to handle\r\n1. Clearing call related UI when the network is disconnected or switched.\r\n2. Do clean connectivity. There were few issues discovered in earlier implementation. e.g endpoint would randomly\r\nget disconnected after a while. This was due to the fact that the earlier socket disconnection caused the\r\nremoval of contact on asterisk. This should be fixed in this PR.\r\n3. This PR contains a lot of logs. This will be removed before the final merge.",
           "milestone": "4.8.0",
           "contributors": [
             "amolghode1981"
@@ -88583,7 +88583,7 @@
         },
         {
           "pr": "25349",
-          "title": "Regression: SMC-Chat Webapp not loading.",
+          "title": "Regression: Star Media's workplace Webapp not loading.",
           "userLogin": "pierre-lehnen-rc",
           "contributors": [
             "pierre-lehnen-rc",
@@ -89942,7 +89942,7 @@
           "pr": "26205",
           "title": "Chore: Change Apps-Engine version source for info",
           "userLogin": "d-gubert",
-          "description": "Now that we're using `yarn`, the version stored in the `package.json` is no longer the resolved one, but it matches the input. This means that when we ran `yarn add @SMC-Chat/apps-engine@alpha`, yarn saves `\"alpha\"` as the version of the package, while NPM added the resolved version for the tag, e.g. `\"1.33.0-alpha.6507\"`. This ends up breaking a few places where we need the Apps-Engine version for communication with the Marketplace.\r\n\r\nWith this PR we change the source of that info so the problem doesn't happen anymore.",
+          "description": "Now that we're using `yarn`, the version stored in the `package.json` is no longer the resolved one, but it matches the input. This means that when we ran `yarn add @Star Media's workplace/apps-engine@alpha`, yarn saves `\"alpha\"` as the version of the package, while NPM added the resolved version for the tag, e.g. `\"1.33.0-alpha.6507\"`. This ends up breaking a few places where we need the Apps-Engine version for communication with the Marketplace.\r\n\r\nWith this PR we change the source of that info so the problem doesn't happen anymore.",
           "milestone": "5.0.0",
           "contributors": [
             "d-gubert"
@@ -90113,9 +90113,9 @@
         },
         {
           "pr": "26197",
-          "title": "Regression: Reverting @SMC-Chat/mp3-encoder version to fix Audio Message",
+          "title": "Regression: Reverting @Star Media's workplace/mp3-encoder version to fix Audio Message",
           "userLogin": "hugocostadev",
-          "description": "An unknow breaking change (still investigating) happened when upgrading the [@SMC-Chat/mp3-encoder](https://github.com/RocketChat/fuselage/tree/develop/packages/mp3-encoder) package to version 0.25.0, because of that we revert the version to 0.24.0 the last know working version.",
+          "description": "An unknow breaking change (still investigating) happened when upgrading the [@Star Media's workplace/mp3-encoder](https://github.com/RocketChat/fuselage/tree/develop/packages/mp3-encoder) package to version 0.25.0, because of that we revert the version to 0.24.0 the last know working version.",
           "milestone": "5.0.0",
           "contributors": [
             "hugocostadev"
@@ -90156,7 +90156,7 @@
           "pr": "26209",
           "title": "Regression: Livechat rooms not opening due to route desync",
           "userLogin": "aleksandernsilva",
-          "description": "Due to route information only updating on `Tracker.afterFlush` (https://github.com/RocketChat/SMC-Chat/pull/25990), we found out that calling the `tabBar.openUserInfo()` method at this point will cause a route change to the previous route instead of the current one, preventing livechat rooms from being opened.\r\n\r\nAs a provisory solution, we're delaying the opening of the contextual bar, which then ensures that the route info is up to date. Although this solution works, we need to find a more reliable way of ensuring consistent route changes with up-to-date information.\r\n\r\n### I'm definitely open for better looking alternatives. Please leave a comment if you have a better solution to share.",
+          "description": "Due to route information only updating on `Tracker.afterFlush` (https://github.com/RocketChat/Star Media's workplace/pull/25990), we found out that calling the `tabBar.openUserInfo()` method at this point will cause a route change to the previous route instead of the current one, preventing livechat rooms from being opened.\r\n\r\nAs a provisory solution, we're delaying the opening of the contextual bar, which then ensures that the route info is up to date. Although this solution works, we need to find a more reliable way of ensuring consistent route changes with up-to-date information.\r\n\r\n### I'm definitely open for better looking alternatives. Please leave a comment if you have a better solution to share.",
           "milestone": "5.0.0",
           "contributors": [
             "aleksandernsilva",
@@ -90695,7 +90695,7 @@
           "pr": "25724",
           "title": "[FIX] Not showing edit message button when blocking edit after N minutes",
           "userLogin": "matthias4217",
-          "description": "Previously, in Rocketchat 4.7.0 and later,  as mentioned in https://github.com/RocketChat/SMC-Chat/issues/25478, the edit button was not displayed on the interface in the minute after having sent a message. This is now fixed : messages can be edited right after sending them.",
+          "description": "Previously, in Rocketchat 4.7.0 and later,  as mentioned in https://github.com/RocketChat/Star Media's workplace/issues/25478, the edit button was not displayed on the interface in the minute after having sent a message. This is now fixed : messages can be edited right after sending them.",
           "milestone": "4.8.2",
           "contributors": [
             "matthias4217",
@@ -90961,7 +90961,7 @@
           "pr": "26057",
           "title": "[FIX] Unable to close chats when comments is disabled",
           "userLogin": "murtaza98",
-          "description": "Fixes https://github.com/RocketChat/SMC-Chat/issues/25954",
+          "description": "Fixes https://github.com/RocketChat/Star Media's workplace/issues/25954",
           "milestone": "5.0.0",
           "contributors": [
             "murtaza98",
@@ -91044,7 +91044,7 @@
           "pr": "26312",
           "title": "[NEW] Capability to search visitors by custom fields",
           "userLogin": "cauefcr",
-          "description": "Users of the endpoints [api/v1/omnichannel/contact.search](https://developer.SMC-Chat/reference/api/rest-api/endpoints/omnichannel/livechat-endpoints/livechat-contact/omnichannel-search-contact) and [/api/v1/livechat/visitors.search](https://developer.SMC-Chat/reference/api/rest-api/endpoints/omnichannel/livechat-endpoints/visitor/search-for-visitors) are now able to search by custom fields in their objects. \r\nCapability of selecting if a custom field can be searched for is added in the Omnichannel pannel as a toggle for `searchable`,  the included JSON in the Accounts' Custom Field example has been updated to make it explicit for future configurations that the field has to be enabled as searchable for that to happen.",
+          "description": "Users of the endpoints [api/v1/omnichannel/contact.search](https://developer.Star Media's workplace/reference/api/rest-api/endpoints/omnichannel/livechat-endpoints/livechat-contact/omnichannel-search-contact) and [/api/v1/livechat/visitors.search](https://developer.Star Media's workplace/reference/api/rest-api/endpoints/omnichannel/livechat-endpoints/visitor/search-for-visitors) are now able to search by custom fields in their objects. \r\nCapability of selecting if a custom field can be searched for is added in the Omnichannel pannel as a toggle for `searchable`,  the included JSON in the Accounts' Custom Field example has been updated to make it explicit for future configurations that the field has to be enabled as searchable for that to happen.",
           "milestone": "5.1.0",
           "contributors": [
             "cauefcr",
@@ -91254,7 +91254,7 @@
         },
         {
           "pr": "26220",
-          "title": "[NEW] Adding oauth crud on the SMC-Chat side",
+          "title": "[NEW] Adding oauth crud on the Star Media's workplace side",
           "userLogin": "AllanPazRibeiro",
           "milestone": "5.1.0",
           "contributors": [
@@ -91373,7 +91373,7 @@
         },
         {
           "pr": "26653",
-          "title": "Chore: Move `Card` and related components to `@SMC-Chat/ui-client`",
+          "title": "Chore: Move `Card` and related components to `@Star Media's workplace/ui-client`",
           "userLogin": "tassoevan",
           "contributors": [
             "tassoevan"
@@ -92254,7 +92254,7 @@
           "pr": "26526",
           "title": "Chore: Bypass turbo cache on `ui-contexts`",
           "userLogin": "tassoevan",
-          "description": "Skips cache for building `@SMC-Chat/ui-contexts`, avoiding Turborepo issues with a symlink.",
+          "description": "Skips cache for building `@Star Media's workplace/ui-contexts`, avoiding Turborepo issues with a symlink.",
           "contributors": [
             "tassoevan"
           ]
@@ -94281,7 +94281,7 @@
         },
         {
           "pr": "26846",
-          "title": "Chore: Configure Prettier for `@SMC-Chat/livechat`",
+          "title": "Chore: Configure Prettier for `@Star Media's workplace/livechat`",
           "userLogin": "tiagoevanp",
           "contributors": [
             "tiagoevanp",
@@ -96105,7 +96105,7 @@
           "pr": "27311",
           "title": "[FIX] Ensure onetime job runs according to 'startupSetting' everytime",
           "userLogin": "thassiov",
-          "description": "- Fixes the condition of not running a _onetime job_ at the app's startup scheduled to run by using the [`startupSetting`](https://github.com/RocketChat/SMC-Chat.Apps-engine/blob/04f5930244836043040a8c42beff0690a2359a53/src/definition/scheduler/IProcessor.ts#L8) if the job was run previously at another app startup (Agenda does not remove already run jobs from the database, preventing the app from scheduling the job a second time as it thinks the job is already scheduled);\r\n- Declutters the scheduler's collection by removing _onetime jobs_ documents after they are run.",
+          "description": "- Fixes the condition of not running a _onetime job_ at the app's startup scheduled to run by using the [`startupSetting`](https://github.com/RocketChat/Star Media's workplace.Apps-engine/blob/04f5930244836043040a8c42beff0690a2359a53/src/definition/scheduler/IProcessor.ts#L8) if the job was run previously at another app startup (Agenda does not remove already run jobs from the database, preventing the app from scheduling the job a second time as it thinks the job is already scheduled);\r\n- Declutters the scheduler's collection by removing _onetime jobs_ documents after they are run.",
           "milestone": "5.4.0",
           "contributors": [
             "thassiov"
@@ -96545,7 +96545,7 @@
           "pr": "27003",
           "title": "[NEW] Emphasis Elements (italic, strike and bold) in Message Parser Components",
           "userLogin": "hugocostadev",
-          "description": "Currently the message parser does not accept Emphasis elements mixed with plain text\r\n\r\n`[Normal Link - *Bold*, _Italic_  and ~strike~ Styles](https://SMC-Chat/)` return plain text → Should return a Lin with bold/italic/strike\r\n\r\nTo fix this behavior it was necessary to edit LinkSpan component in gazzodown package (changes included in this PR) and the grammar/utils files in the `fuselage/message-parser` repository\r\n\r\nFuselage Pull Request:  https://github.com/RocketChat/fuselage/pull/887/",
+          "description": "Currently the message parser does not accept Emphasis elements mixed with plain text\r\n\r\n`[Normal Link - *Bold*, _Italic_  and ~strike~ Styles](https://Star Media's workplace/)` return plain text → Should return a Lin with bold/italic/strike\r\n\r\nTo fix this behavior it was necessary to edit LinkSpan component in gazzodown package (changes included in this PR) and the grammar/utils files in the `fuselage/message-parser` repository\r\n\r\nFuselage Pull Request:  https://github.com/RocketChat/fuselage/pull/887/",
           "milestone": "5.4.0",
           "contributors": [
             "hugocostadev",
@@ -98471,7 +98471,7 @@
           "pr": "27763",
           "title": "[NEW] Matrix federation events coverage expansion + bug fixes",
           "userLogin": "MarcosSpessatto",
-          "description": "- Disables not supported features in federated channels (#27204)\r\n- Add support for the whole Matrix Markdown spec (#27725)\r\n- Allow federated rooms with the same name per different servers when they have a contact between them (#27559)\r\n-  Matrix Federation send message when multiple users are involved was not working (#27327)\r\n- Allow the room owner to set roles on federated rooms, following a specific and different approach as normal rooms (available on docs) (https://github.com/RocketChat/SMC-Chat/pull/27633)\r\n- E2E Tests (PS: they don't run on CI) (#27578 #27282 #27115)\r\n- Disables admin actions disallowed for federated users/rooms (https://github.com/RocketChat/SMC-Chat/pull/27251)\r\n\r\nFED-81",
+          "description": "- Disables not supported features in federated channels (#27204)\r\n- Add support for the whole Matrix Markdown spec (#27725)\r\n- Allow federated rooms with the same name per different servers when they have a contact between them (#27559)\r\n-  Matrix Federation send message when multiple users are involved was not working (#27327)\r\n- Allow the room owner to set roles on federated rooms, following a specific and different approach as normal rooms (available on docs) (https://github.com/RocketChat/Star Media's workplace/pull/27633)\r\n- E2E Tests (PS: they don't run on CI) (#27578 #27282 #27115)\r\n- Disables admin actions disallowed for federated users/rooms (https://github.com/RocketChat/Star Media's workplace/pull/27251)\r\n\r\nFED-81",
           "milestone": "6.0.0",
           "contributors": [
             "MarcosSpessatto",
@@ -99137,7 +99137,7 @@
           "pr": "27760",
           "title": "[BREAK] Remove legacy FB Messenger integration",
           "userLogin": "murtaza98",
-          "description": "Legacy FB messenger integration has been removed in favour of the new and enhanced FB App integration. [Click here](https://docs.SMC-Chat/guides/app-guides/omnichannel-apps/facebook-app) for more info",
+          "description": "Legacy FB messenger integration has been removed in favour of the new and enhanced FB App integration. [Click here](https://docs.Star Media's workplace/guides/app-guides/omnichannel-apps/facebook-app) for more info",
           "milestone": "6.0.0",
           "contributors": [
             "murtaza98",
@@ -99172,7 +99172,7 @@
           "pr": "27877",
           "title": "[NEW] Bridge to get all users crated by app and also delete them",
           "userLogin": "albuquerquefabio",
-          "description": "We're working on [MS Teams bridge](https://github.com/RocketChat/Apps.teams.bridge), to make it usable we have created a new method for the apps engine to [create new users](https://github.com/RocketChat/SMC-Chat.Apps-engine/pull/536) and we'll also need to delete all when we uninstall the app. Therefore, we created this bridge to cover the action of deleting users on the app side.",
+          "description": "We're working on [MS Teams bridge](https://github.com/RocketChat/Apps.teams.bridge), to make it usable we have created a new method for the apps engine to [create new users](https://github.com/RocketChat/Star Media's workplace.Apps-engine/pull/536) and we'll also need to delete all when we uninstall the app. Therefore, we created this bridge to cover the action of deleting users on the app side.",
           "milestone": "6.0.0",
           "contributors": [
             "albuquerquefabio",
@@ -99275,7 +99275,7 @@
           "pr": "27925",
           "title": "Chore: Notify Marketplace on App Install",
           "userLogin": "graywolf336",
-          "description": "Notifies SMC-Chat's Marketplace of an app install action. This correlates with the app request flow.",
+          "description": "Notifies Star Media's workplace's Marketplace of an app install action. This correlates with the app request flow.",
           "contributors": [
             "graywolf336",
             "kodiakhq[bot]",
@@ -100211,7 +100211,7 @@
           "pr": "27552",
           "title": "Chore: Update tsconfig base target to es2020",
           "userLogin": "sampaiodiego",
-          "description": "The base files are not split into two other files, a \"client\" and a \"server\" file. Both extends the new base one. Packages should extend either \"client\" or \"server\" ones:\r\n\r\n```mermaid\r\ngraph TD;\r\n    base[tsconfig.base.json]-->client[tsconfig.base.client.json];\r\n    base-->server[tsconfig.base.server.json];\r\n    server-->s1[\"@SMC-Chat/models\"];\r\n    server-->s2[\"@SMC-Chat/ddp-streamer\"];\r\n    server-->s3[...];\r\n    client-->c1[\"@SMC-Chat/ui-theming\"];\r\n    client-->c2[\"@SMC-Chat/fuselage-ui-kit\"];\r\n    client-->c3[...];\r\n```\r\n\r\nImportant changes:\r\n\r\n- The client config `target` have been bumped to `es2015` (it was `es5` before)\r\n- The server config `target` have been bumped to `es2020`\r\n- The default value for `jsx` is `react-jsx`\r\n- Raised `\"noUnusedLocals\": true` to a base config, so had to remove a bunch of imports to `React` that were not being used",
+          "description": "The base files are not split into two other files, a \"client\" and a \"server\" file. Both extends the new base one. Packages should extend either \"client\" or \"server\" ones:\r\n\r\n```mermaid\r\ngraph TD;\r\n    base[tsconfig.base.json]-->client[tsconfig.base.client.json];\r\n    base-->server[tsconfig.base.server.json];\r\n    server-->s1[\"@Star Media's workplace/models\"];\r\n    server-->s2[\"@Star Media's workplace/ddp-streamer\"];\r\n    server-->s3[...];\r\n    client-->c1[\"@Star Media's workplace/ui-theming\"];\r\n    client-->c2[\"@Star Media's workplace/fuselage-ui-kit\"];\r\n    client-->c3[...];\r\n```\r\n\r\nImportant changes:\r\n\r\n- The client config `target` have been bumped to `es2015` (it was `es5` before)\r\n- The server config `target` have been bumped to `es2020`\r\n- The default value for `jsx` is `react-jsx`\r\n- Raised `\"noUnusedLocals\": true` to a base config, so had to remove a bunch of imports to `React` that were not being used",
           "contributors": [
             "sampaiodiego",
             "web-flow"
@@ -102070,7 +102070,7 @@
           "pr": "28303",
           "title": "Regression: OAuth Login",
           "userLogin": "d-gubert",
-          "description": "Login flow with SMC-Chat as an OAuth provider was broken",
+          "description": "Login flow with Star Media's workplace as an OAuth provider was broken",
           "milestone": "6.0.0",
           "contributors": [
             "d-gubert",
@@ -102524,7 +102524,7 @@
         "pr": "27311",
         "title": "[FIX] Ensure onetime job runs according to 'startupSetting' everytime",
         "userLogin": "thassiov",
-        "description": "- Fixes the condition of not running a _onetime job_ at the app's startup scheduled to run by using the [`startupSetting`](https://github.com/RocketChat/SMC-Chat.Apps-engine/blob/04f5930244836043040a8c42beff0690a2359a53/src/definition/scheduler/IProcessor.ts#L8) if the job was run previously at another app startup (Agenda does not remove already run jobs from the database, preventing the app from scheduling the job a second time as it thinks the job is already scheduled);\r\n- Declutters the scheduler's collection by removing _onetime jobs_ documents after they are run.",
+        "description": "- Fixes the condition of not running a _onetime job_ at the app's startup scheduled to run by using the [`startupSetting`](https://github.com/RocketChat/Star Media's workplace.Apps-engine/blob/04f5930244836043040a8c42beff0690a2359a53/src/definition/scheduler/IProcessor.ts#L8) if the job was run previously at another app startup (Agenda does not remove already run jobs from the database, preventing the app from scheduling the job a second time as it thinks the job is already scheduled);\r\n- Declutters the scheduler's collection by removing _onetime jobs_ documents after they are run.",
         "milestone": "5.4.0",
         "contributors": [
           "thassiov"
@@ -102964,7 +102964,7 @@
         "pr": "27003",
         "title": "[NEW] Emphasis Elements (italic, strike and bold) in Message Parser Components",
         "userLogin": "hugocostadev",
-        "description": "Currently the message parser does not accept Emphasis elements mixed with plain text\r\n\r\n`[Normal Link - *Bold*, _Italic_  and ~strike~ Styles](https://SMC-Chat/)` return plain text → Should return a Lin with bold/italic/strike\r\n\r\nTo fix this behavior it was necessary to edit LinkSpan component in gazzodown package (changes included in this PR) and the grammar/utils files in the `fuselage/message-parser` repository\r\n\r\nFuselage Pull Request:  https://github.com/RocketChat/fuselage/pull/887/",
+        "description": "Currently the message parser does not accept Emphasis elements mixed with plain text\r\n\r\n`[Normal Link - *Bold*, _Italic_  and ~strike~ Styles](https://Star Media's workplace/)` return plain text → Should return a Lin with bold/italic/strike\r\n\r\nTo fix this behavior it was necessary to edit LinkSpan component in gazzodown package (changes included in this PR) and the grammar/utils files in the `fuselage/message-parser` repository\r\n\r\nFuselage Pull Request:  https://github.com/RocketChat/fuselage/pull/887/",
         "milestone": "5.4.0",
         "contributors": [
           "hugocostadev",

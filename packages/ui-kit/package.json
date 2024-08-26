@@ -1,19 +1,19 @@
 {
 	"name": "@rocket.chat/ui-kit",
 	"version": "0.36.0",
-	"description": "Interactive UI elements for SMC-Chat Apps",
+	"description": "Interactive UI elements for Star Media's workplace Apps",
 	"homepage": "https://www.unitel.com.la/",
 	"author": {
-		"name": "SMC-Chat",
+		"name": "Star Media's workplace",
 		"url": "https://www.unitel.com.la/"
 	},
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/RocketChat/SMC-Chat.git"
+		"url": "git+https://github.com/RocketChat/Star Media's workplace.git"
 	},
 	"bugs": {
-		"url": "https://github.com/RocketChat/SMC-Chat/issues"
+		"url": "https://github.com/RocketChat/Star Media's workplace/issues"
 	},
 	"main": "dist/cjs/index.js",
 	"module": "dist/esm/index.js",
